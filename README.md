@@ -623,6 +623,7 @@ Name           | Address
 [SWITCH](https://tonviewer.com/0:71a3886e5495da7f564e7709e70ddc5af4e568c8d1a15ccb09573a1b9b149621) | EQBxo4huVJXaf1ZOdwnnDdxa9OVoyNGhXMsJVzobmxSWITCH
 [SafeMars](https://tonviewer.com/0:0964496b0d3824b747b1202ad55103e3375f649d63a7886b090bf02e9f2a9f3c) | EQAJZElrDTgkt0exICrVUQPjN19knWOniGsJC_AunyqfPA0w
 [SafemoonTon](https://tonviewer.com/0:602f0dd12e410b80e254535a07b47cf09284dd6f84607d3f088131ba93f88b9d) | EQBgLw3RLkELgOJUU1oHtHzwkoTdb4RgfT8IgTG6k_iLneEc
+[Safeton Strategy](https://tonviewer.com/0:781f4cf6c48d95b7666d074c6589fc5b93e95de4715421b304ea0fd83bab665b) | EQB4H0z2xI2Vt2ZtB0xlifxbk-ld5HFUIbME6g_YO6tmW3ri
 [Saintcoin](https://tonviewer.com/0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d) | EQD7rlGEfvNUXYbEwT-Ll7SUD7LuGkubUeU-TQXsShMwXY0H
 [Saiyan](https://tonviewer.com/0:054f335e1dcc81c0ef083efbcea62e95fe7e01e8ee4fe6478bab6c44e2cf23f7) | EQAFTzNeHcyBwO8IPvvOpi6V_n4B6O5P5keLq2xE4s8j9w4c
 [Salo](https://tonviewer.com/0:c7976b1586b63896f74714bcee4af1a8817b928a6db4e94bd71cdc0547cf210a) | EQDHl2sVhrY4lvdHFLzuSvGogXuSim206UvXHNwFR88hCiyh
@@ -751,6 +752,7 @@ Name           | Address
 [Ton Hamster](https://tonviewer.com/0:5a9b946e0778a7617b1495a993204aaefad372e4d997e0504b01c65eff7eb479) | EQBam5RuB3inYXsUlamTIEqu-tNy5NmX4FBLAcZe_360eWWE
 [Ton Inu](https://tonviewer.com/0:3a43774c81511f5d0f6d3412f67cc96312123f6b343e477bef3e08c6397c2817) | EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt
 [Ton Invaders Coin](https://tonviewer.com/0:651e7602d14935dff5812b83cdfaa8c1d938a25e2c580d37bb1235f5efe215fb) | EQBlHnYC0Uk13_WBK4PN-qjB2TiiXixYDTe7EjX17-IV-0eF
+[Ton Meme Dao](https://tonviewer.com/0:f18d88be0657b8eaf2b1b6dfef97bf6003831becc2de1dbb628b59f8bfed54c2) | EQDxjYi-Ble46vKxtt_vl79gA4Mb7MLeHbtii1n4v-1UwiKR
 [Ton Milk](https://tonviewer.com/0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1) | EQChffb43kDZf5UsUXs6QGZEsvDEkoM1CEVabf-oihoU4d5U
 [Ton Miner](https://tonviewer.com/0:795a3a3bc9775a07bd32068376604bfc8953e301d30e6dffc3ab8d042cb68f96) | EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb
 [Ton Raffles Token](https://tonviewer.com/0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a) | EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h
