@@ -281,6 +281,7 @@ Name           | Address
 [FibNOT](https://tonviewer.com/0:84ffa4debca1298fc393cf7ad9b750f96d1e9f10d41b48dd9b6d6d23cf16d618) | EQCE_6TevKEpj8OTz3rZt1D5bR6fENQbSN2bbW0jzxbWGGIo
 [FibStonfiTON](https://tonviewer.com/0:be8e55fcdc36198125915b9abf5ee1cb5961503e9db11a673c042a1e59c90aa5) | EQC-jlX83DYZgSWRW5q_XuHLWWFQPp2xGmc8BCoeWckKpeHs
 [FibUSDT](https://tonviewer.com/0:fa81049609ac8787416f5274d79697e2cc85a2abb51e138818bd7198b4484860) | EQD6gQSWCayHh0FvUnTXlpfizIWiq7UeE4gYvXGYtEhIYJ8q
+[Fight For Freedom](https://tonviewer.com/0:4f39cd89ff3a1f6bd727d2cf3102e27d8590500f25023f97518e74ef4d32e4cd) | EQBPOc2J_zofa9cn0s8xAuJ9hZBQDyUCP5dRjnTvTTLkzTQP
 [Fintopio 💎](https://tonviewer.com/0:74da7151d386c3c1e53c17247a089b94458994a7f638859410fc29fadd227415) | EQB02nFR04bDweU8FyR6CJuURYmUp_Y4hZQQ_Cn63SJ0FZga
 [First Digital USD](https://tonviewer.com/0:f412fa64e2d8a614e1e6cb84afde5fca1145e533e74dd7f2a1ae84c27c1db090) | EQD0Evpk4timFOHmy4Sv3l_KEUXlM-dN1_KhroTCfB2wkO89
 [Flamingo Coin](https://tonviewer.com/0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025) | EQB1JWp5YwtdMZlGwMp9N_VygWYRj1mDmDdp91Sm84-AJWI_
