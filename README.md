@@ -191,6 +191,7 @@ Name           | Address
 [ChronoTech Token](https://tonviewer.com/0:eef628e4e3882b0077b70f2f6a60ecbe86273ebc9af8775087dc737237e813e4) | EQDu9ijk44grAHe3Dy9qYOy-hic-vJr4d1CH3HNyN-gT5LyL
 [Clayton](https://tonviewer.com/0:7ebdcd3483d3de5162e9b52007e20d49e64612ed64e0b5511f848ea829d42d46) | EQB-vc00g9PeUWLptSAH4g1J5kYS7WTgtVEfhI6oKdQtRudE
 [Closecoin](https://tonviewer.com/0:d45aef4cff9351f35d9a8f9ac8dc50c182755b2f2c9cbe3f856ffbb417ffc22c) | EQDUWu9M_5NR812aj5rI3FDBgnVbLyycvj-Fb_u0F__CLOSE
+[Clown cat coin](https://tonviewer.com/0:49282f3b4af7f031a3a564d64458fa5891d6965de485f7bcd50b2d03b5248884) | EQBJKC87SvfwMaOlZNZEWPpYkdaWXeSF97zVCy0DtSSIhICE
 [Cock Fights Token](https://tonviewer.com/0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58) | EQCm4EVrocp34JFelHYPGx_D4pKqQ-gS6_xFZQzIwwA-WElP
 [Coffee](https://tonviewer.com/0:3d75ac8429f96b2fec087fe18a1a2ce3dbaa6f5f4402231c26460ab383953f73) | EQA9dayEKflrL-wIf-GKGizj26pvX0QCIxwmRgqzg5U_c3YB
 [Coin Flipper](https://tonviewer.com/0:1c498adc26ba9e3adc3a0a62b5fe4913c7b62c3fa3abf29bc6050ac015865b09) | EQAcSYrcJrqeOtw6CmK1_kkTx7YsP6Or8pvGBQrAFYZbCQxQ
@@ -385,6 +386,7 @@ Name           | Address
 [Lavandos](https://tonviewer.com/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
 [Leagushka](https://tonviewer.com/0:3309d04825d6599e97e7e21eedec03a4e44ecc01ac54b0844006ea25562199ae) | EQAzCdBIJdZZnpfn4h7t7AOk5E7MAaxUsIRABuolViGZrhzI
 [Lego Resistance Dog](https://tonviewer.com/0:38277a3f5d37562f3a99e5c7ca74a333200a38ddaaf0f557cb6c2e31a256884a) | EQA4J3o_XTdWLzqZ5cfKdKMzIAo43arw9VfLbC4xolaISkWD
+[Leprechaun](https://tonviewer.com/0:56c9dba55b3c50a8cc0f41a38aeea0fa67d403bea5cdd310e365ad390555cf30) | EQBWydulWzxQqMwPQaOK7qD6Z9QDvqXN0xDjZa05BVXPMCjZ
 [Lets Fuckin Go](https://tonviewer.com/0:8f8eefbd24dd1f2b8053a0ebc0e9a3dd0724790a6cab346a9e321b91cf7e5913) | EQCPju-9JN0fK4BToOvA6aPdByR5CmyrNGqeMhuRz35ZE8C1
 [Libration](https://tonviewer.com/0:77f0c23f335359a05ae3c4efeb4c51454af0cb0f988a17ed63d4355e495c8fc2) | EQB38MI_M1NZoFrjxO_rTFFFSvDLD5iKF-1j1DVeSVyPwqGE
 [Life's a Peach](https://tonviewer.com/0:52fe907507f8cad46a967190de0189e61bda6e77d76c1b9495bc10616c5b92ed) | EQBS_pB1B_jK1GqWcZDeAYnmG9pud9dsG5SVvBBhbFuS7Zzu
