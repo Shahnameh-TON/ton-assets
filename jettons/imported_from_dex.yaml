@@ -1186,6 +1186,9 @@
 - address: 0:e15280bcbc5901f01083395ad81f296715e2c0df8ddcb25f3f2929e3e053f7c1
   name: Sorry Mate
   symbol: SORRY
+- address: 0:a2f675ad458e6b7445a46483ce7bff67d565e883c39b5c221fe911a6c050a7ae
+  name: S.O.T.A
+  symbol: SOTA
 - address: 0:41f843111099081d5606e433e29253a158f72c09ac632fd1ca9a046fb86b73ff
   name: Nobby Game
   symbol: SOX
