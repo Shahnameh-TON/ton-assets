@@ -227,6 +227,7 @@ Name           | Address
 [DONALDTRUMP](https://tonviewer.com/0:8249d971df52af8dbb16fab1dd82c2d22d476b8fae1a648e434c104731e64856) | EQCCSdlx31KvjbsW-rHdgsLSLUdrj64aZI5DTBBHMeZIVulP
 [DONDON](https://tonviewer.com/0:36f7907853194b4c9610b2cb786f1f7e9a6eeb52083ad3b65bcf5a4d16e7df30) | EQA295B4UxlLTJYQsst4bx9-mm7rUgg607Zbz1pNFuffMMxf
 [DRAGONZ LAND](https://tonviewer.com/0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0) | EQCSFf7VcRHebHubFOyO9guWonUVZBvRNHmdTr2h7j4c0H4G
+[DRFT Coin](https://tonviewer.com/0:65e65b1043d6295705284e571d7ac5408e2a9af968a6896dbd1700c7720024c6) | EQBl5lsQQ9YpVwUoTlcdesVAjiqa-WimiW29FwDHcgAkxh7B
 [DYNYA](https://tonviewer.com/0:ff1132fe490445c2ec48203c2fa3c0a2c2e54af68ee55e07cd5544b3f6d96518) | EQD_ETL-SQRFwuxIIDwvo8CiwuVK9o7lXgfNVUSz9tllGMz9
 [DYOR Coin](https://tonviewer.com/0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1) | EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz
 [Dancing Cat](https://tonviewer.com/0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6) | EQAnzdfxDYsmUrLTOL7E6ANRWPR-6TlB-LAv-lifsh-55lZF
