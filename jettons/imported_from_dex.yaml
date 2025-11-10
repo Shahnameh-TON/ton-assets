@@ -214,6 +214,9 @@
 - address: 0:83ec74343293a7a0d2a9225bbd984651f894bb6a87b850e3875c110195056dda
   name: a TON of MILADYS
   symbol: CABAL
+- address: 0:27c5bb8c3db44e05a923acdfa7a9de12fe39ff2981a5b32f69c0858afd6c7e88
+  name: Capstrategy
+  symbol: CAPSTR
 - address: 0:f970ea1f187d4ba596e4ab15b6885f95084e52cca80fd4adc0071767c7a4ce83
   name: CARAT
   symbol: CARAT
@@ -424,6 +427,9 @@
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
+- address: 0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651
+  name: Exit
+  symbol: Exit
 - address: 0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce
   name: F
   symbol: F
