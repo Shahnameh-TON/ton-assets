@@ -1604,6 +1604,9 @@
 - address: 0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542
   name: ' Vladimir Putin''s Dog'
   symbol: YUME
+- address: 0:a7658ce69ae845b6d34492b51937d3621e1b2a6c1208c72633856d6c255b1901
+  name: The Reversed Livaz
+  symbol: ZAVIL
 - address: 0:93506d39c4948d445840cdad4cf548ca917a9ac067129715874c2a8ce45d0c11
   name: ZEUS
   symbol: ZEUS
