@@ -194,6 +194,7 @@ Name           | Address
 [Closecoin](https://tonviewer.com/0:d45aef4cff9351f35d9a8f9ac8dc50c182755b2f2c9cbe3f856ffbb417ffc22c) | EQDUWu9M_5NR812aj5rI3FDBgnVbLyycvj-Fb_u0F__CLOSE
 [Clown cat coin](https://tonviewer.com/0:49282f3b4af7f031a3a564d64458fa5891d6965de485f7bcd50b2d03b5248884) | EQBJKC87SvfwMaOlZNZEWPpYkdaWXeSF97zVCy0DtSSIhICE
 [Cock Fights Token](https://tonviewer.com/0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58) | EQCm4EVrocp34JFelHYPGx_D4pKqQ-gS6_xFZQzIwwA-WElP
+[Cocoon](https://tonviewer.com/0:62c993145ef767458154937fd1e6e3ddb11d91388f667acff54be8cbd6d2100e) | EQBiyZMUXvdnRYFUk3_R5uPdsR2ROI9mes_1S-jL1tIQDhDK
 [Coffee](https://tonviewer.com/0:3d75ac8429f96b2fec087fe18a1a2ce3dbaa6f5f4402231c26460ab383953f73) | EQA9dayEKflrL-wIf-GKGizj26pvX0QCIxwmRgqzg5U_c3YB
 [Coin Flipper](https://tonviewer.com/0:1c498adc26ba9e3adc3a0a62b5fe4913c7b62c3fa3abf29bc6050ac015865b09) | EQAcSYrcJrqeOtw6CmK1_kkTx7YsP6Or8pvGBQrAFYZbCQxQ
 [Commander](https://tonviewer.com/0:741ce947015e65f7becd4c3df7ce483339a9f82010580af9832e30dff41d485f) | EQB0HOlHAV5l977NTD33zkgzOan4IBBYCvmDLjDf9B1IX3W7
