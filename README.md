@@ -553,6 +553,7 @@ Name           | Address
 [PUGWIFJET](https://tonviewer.com/0:7c4f5ca5ca4b340c51645140b629e165cd7326fb10e3befeb00c34572ebea34c) | EQB8T1ylyks0DFFkUUC2KeFlzXMm-xDjvv6wDDRXLr6jTPRz
 [PUPA](https://tonviewer.com/0:296afb30ba0917352836a4ac4841773330e8d9736320d2dde3fcab8299205105) | EQApavswugkXNSg2pKxIQXczMOjZc2Mg0t3j_KuCmSBRBTBw
 [PX](https://tonviewer.com/0:78db4c90b19a1b19ccb45580df48a1e91b6410970fa3d5ffed3eed49e3cf08ff) | EQB420yQsZobGcy0VYDfSKHpG2QQlw-j1f_tPu1J488I__PX
+[Padel](https://tonviewer.com/0:87a40a1ccced702093c9d1fdbc2d8addcab4b6bd919d29160fa5a2d756c98bd2) | EQCHpAoczO1wIJPJ0f28LYrdyrS2vZGdKRYPpaLXVsmL0qgX
 [Palladium](https://tonviewer.com/0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7) | EQDgGuB15VUI7wkJ9c5_tjQswWuePEtqTDXSHIYKMMSxx_2U
 [Paper Plane](https://tonviewer.com/0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34) | EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2
 [Part Time Troll](https://tonviewer.com/0:deeae17163fd6b5a91b02472ef2cd159d09fd89a6b1500c13d5c886a3748b665) | EQDe6uFxY_1rWpGwJHLvLNFZ0J_YmmsVAME9XIhqN0i2ZX_C
@@ -735,6 +736,7 @@ Name           | Address
 [TROMP](https://tonviewer.com/0:a5edfab38859a75ad04d6955305e4b772d9686ecc194e56648960687b20413e9) | EQCl7fqziFmnWtBNaVUwXkt3LZaG7MGU5WZIlgaHsgQT6dVD
 [TapOk](https://tonviewer.com/0:ad7e1ca61254be4aa97d52e23766f3a619b2b54fca6c150ca1d81746022ae6a8) | EQCtfhymElS-Sql9UuI3ZvOmGbK1T8psFQyh2BdGAirmqJ21
 [Taurus](https://tonviewer.com/0:47fa54e01a87bac7ec01a1919b39205d5637c89af2c40366ee792fc9477181b2) | EQBH-lTgGoe6x-wBoZGbOSBdVjfImvLEA2bueS_JR3GBsqFb
+[Teddie Nakamoto](https://tonviewer.com/0:a99aa4687470de430b18a88ab672ab8da31f40895854948e6b6d6ece5b8b28cd) | EQCpmqRodHDeQwsYqIq2cquNox9AiVhUlI5rbW7OW4sozW5-
 [Tektoniks](https://tonviewer.com/0:a1d37d53a6846d76bc71af4289521f209c49096d5de2370f502be75a1f4754f4) | EQCh031TpoRtdrxxr0KJUh8gnEkJbV3iNw9QK-daH0dU9HJV
 [TeleBTC](https://tonviewer.com/0:715de91762ac613a8864307e6aaa9626777f4ed98604925be097618826c1badb) | EQBxXekXYqxhOohkMH5qqpYmd39O2YYEklvgl2GIJsG62-yw
 [TeleSwap](https://tonviewer.com/0:0660ad3c0da25a429999112cf7cbd82a8bbae6a68062c8a42bbbe7e2acec2a3f) | EQAGYK08DaJaQpmZESz3y9gqi7rmpoBiyKQru-firOwqPzR4
