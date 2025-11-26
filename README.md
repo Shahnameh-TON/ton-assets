@@ -724,6 +724,7 @@ Name           | Address
 [TONKINGS Social Token](https://tonviewer.com/0:eebc03f6dfcb16a9c0ae71feed512eccfb873e5b02176fab4aa2c74b5e541f9b) | EQDuvAP238sWqcCucf7tUS7M-4c-WwIXb6tKosdLXlQfmzcr
 [TONNY](https://tonviewer.com/0:fbb087cfd8f47cbfb463671464f1f3f29ac8c4de15226030da003dfcc7a2c2b4) | EQD7sIfP2PR8v7RjZxRk8fPymsjE3hUiYDDaAD38x6LCtG2f
 [TONSEASON](https://tonviewer.com/0:b90d7df13ff8d91130c383725afc7d9780e1ce18fd6d3f2f7cbfa86172251ea6) | EQC5DX3xP_jZETDDg3Ja_H2XgOHOGP1tPy98v6hhciUepv76
+[TONSKI](https://tonviewer.com/0:e83c2004242e0d3c190635af4dfbccdf3ac403a410a321ee9b6f394f22822a5d) | EQDoPCAEJC4NPBkGNa9N-8zfOsQDpBCjIe6bbzlPIoIqXbZm
 [TONWIFHAT](https://tonviewer.com/0:bff0c5bda58b1617490640103c7b8ca9f35707beec9d8998ee01efe55487cc22) | EQC_8MW9pYsWF0kGQBA8e4yp81cHvuydiZjuAe_lVIfMIur9
 [TONY](https://tonviewer.com/0:1a1a5c42df56254b1ccaffd846de46ba50dd46f616e15c9237493b5f5111e122) | EQAaGlxC31YlSxzK_9hG3ka6UN1G9hbhXJI3STtfURHhIvsu
 [TONY](https://tonviewer.com/0:ae96a919594de8d4ae89b9462c6ab499782b5b69332c4b2a914075d208fe7830) | EQCulqkZWU3o1K6JuUYsarSZeCtbaTMsSyqRQHXSCP54MG5O
