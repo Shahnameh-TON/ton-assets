@@ -428,6 +428,7 @@ Name           | Address
 [Mantle](https://tonviewer.com/0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd) | EQAEuikLQVh2lDMrV99nTHqFL_TXEyCEJ1xKMuPT60tfvdps
 [Margaritis](https://tonviewer.com/0:63130f9239ef325769086c65591abb0fa4b4da6a800e13cec219723671ae1777) | EQBjEw-SOe8yV2kIbGVZGrsPpLTaaoAOE87CGXI2ca4XdzXA
 [Mars](https://tonviewer.com/0:0be9ed5434f164b27f35f7ca8e0fa2880a7a65c3a7fd70c205b905b7c55f6577) | EQAL6e1UNPFksn8198qOD6KICnplw6f9cMIFuQW3xV9ld3Ro
+[Maximus](https://tonviewer.com/0:f09f4c9b5717dfae2a36d13493e3596f46eacf3cf7eb607fdd8c6c4013194bed) | EQDwn0ybVxffrio20TST41lvRurPPPfrYH_djGxAExlL7XD0
 [Megaton LP KAI-oUSDC](https://tonviewer.com/0:e5dbdf8fd953b114397ae1701995e51ccad1984bff28e4fbf18c22c22a053479) | EQDl29-P2VOxFDl64XAZleUcytGYS_8o5PvxjCLCKgU0eUUJ
 [Megaton LP WTON-oAZIT](https://tonviewer.com/0:68817b30bd1599a7b7c9d4fa956a4a0af936f935bc53d72051c2803078625e6d) | EQBogXswvRWZp7fJ1PqVakoK-Tb5NbxT1yBRwoAweGJeba_o
 [Megaton LP WTON-oKLAY](https://tonviewer.com/0:a2f2bc7eb8b720ecd14721adc3039e51de3d95033acd237169327715e7168c97) | EQCi8rx-uLcg7NFHIa3DA55R3j2VAzrNI3FpMncV5xaMl9ld

@@ -742,6 +742,9 @@
 - address: 0:8e7bb09d83152c69606d6b80204715ad77a0fbaf34af23c9b08103e1d1521c2e
   name: MASHA
   symbol: MASHA
+- address: 0:f09f4c9b5717dfae2a36d13493e3596f46eacf3cf7eb607fdd8c6c4013194bed
+  name: Maximus
+  symbol: MAXIMUS
 - address: 0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36
   name: Magic Crystal
   symbol: MC
