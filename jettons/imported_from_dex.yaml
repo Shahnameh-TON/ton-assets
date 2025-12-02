@@ -913,6 +913,9 @@
 - address: 0:996a89e369f449306cfdf1b22d94008c04b875ed8ddb31fb64a6999e6c99b63b
   name: OTTON
   symbol: OTN
+- address: 0:7e0a2fa77ca55901048da624d53960bd500689fd0ebebd2f8df777f4d6d3daac
+  name: OranguTON
+  symbol: OTON
 - address: 0:c2fcf5753c26062d85021880315042ffdf4b57e20dc106e207997502948b6593
   name: PACO
   symbol: PACO
