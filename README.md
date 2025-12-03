@@ -400,6 +400,7 @@ Name           | Address
 [Lis](https://tonviewer.com/0:9bffab108979da0bddaec7124e115113211ce5a121a4445cd81111e5c8b360a1) | EQCb_6sQiXnaC92uxxJOEVETIRzloSGkRFzYERHlyLNgobdG
 [Lombard Revival Token](https://tonviewer.com/0:09dbd5a48e32eabbeb9c9808fd034ad19bce94e8ebcd473e3a8aa7755d5cbc3e) | EQAJ29WkjjLqu-ucmAj9A0rRm86U6OvNRz46iqd1XVy8Pryq
 [Love You](https://tonviewer.com/0:12d9e9586fafe1a96c8e97b829b984f37f5b2a9a32c9434950e17ff877f32fb4) | EQAS2elYb6_hqWyOl7gpuYTzf1sqmjLJQ0lQ4X_4d_MvtMWR
+[Lucky Bank](https://tonviewer.com/0:75dfdf613ea58376ea66570e3774a04481882c12da258951ac7e97218870be04) | EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK
 [Lucky TON](https://tonviewer.com/0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054) | EQCyDhcASwIm8-eVVTzMEESYAeQ7ettasfuGXUG1tkDwVJbc
 [Luna or Not](https://tonviewer.com/0:19a28f48d8bc5aa5c897410dc3e11274246a0268e1390d4510748cc883f5f29a) | EQAZoo9I2LxapciXQQ3D4RJ0JGoCaOE5DUUQdIzIg_Xymtoq
 [MAMA](https://tonviewer.com/0:7d0f5fd1a20ea2b58b8da0b908526b239a417b854fd4512cc5904c22bfa66c78) | EQB9D1_Rog6itYuNoLkIUmsjmkF7hU_UUSzFkEwiv6ZseCac
