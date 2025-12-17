@@ -3359,6 +3359,11 @@
   "symbol": "GROK"
  },
  {
+  "address": "0:2dc28eaa30dc2daf489303d78a559df672e002149d1529defc1ab05639ef37f9",
+  "name": "Groyper",
+  "symbol": "GROYP"
+ },
+ {
   "address": "0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2",
   "name": "Gold Standard",
   "symbol": "GSTD"
