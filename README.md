@@ -654,6 +654,7 @@ Name           | Address
 [SantaCoin](https://tonviewer.com/0:e506a188dabe388e99e161f12225a854f1bed9a28de7a35de5e90f47f802096c) | EQDlBqGI2r44jpnhYfEiJahU8b7Zoo3no13l6Q9H-AIJbAgo
 [Saphir](https://tonviewer.com/0:04972ad5df6536d17c2e07723522e92abe91552f04f4977c292c2ff5f1a500a9) | EQAElyrV32U20XwuB3I1IukqvpFVLwT0l3wpLC_18aUAqTc2
 [Save Ass Coin](https://tonviewer.com/0:1007c52de2d9e53a5e78b618ace2f66a9164d5212c9b3e7c7f5c80fddf7ed6cd) | EQAQB8Ut4tnlOl54this4vZqkWTVISybPnx_XID9337WzVra
+[Scuffy](https://tonviewer.com/0:4a0ff8cac3d697f98305e3c2232065d2b6e72b64e1546cbbf13281c266bb3b9f) | EQBKD_jKw9aX-YMF48IjIGXStucrZOFUbLvxMoHCZrs7n7EJ
 [Seahava token](https://tonviewer.com/0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb) | EQAuXaEvNnUXI3hppeQ1xl6xUWtFGPKFLoQzY3qA5Ulr6_bD
 [SecondLive](https://tonviewer.com/0:2b310049627d7149911f613eb0e465185bce027558f7c8568053fde33139306e) | EQArMQBJYn1xSZEfYT6w5GUYW84CdVj3yFaAU_3jMTkwbhFb
 [Secure Sockets Layer](https://tonviewer.com/0:f753cc9cda6a137bcc826d4958c64321fd208258b92ec506a6da569be220dfa5) | EQD3U8yc2moTe8yCbUlYxkMh_SCCWLkuxQam2lab4iDfpXYU
