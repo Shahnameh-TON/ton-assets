@@ -1099,6 +1099,9 @@
 - address: 0:7025a07ee7511f7750ab689b244c0931d8d0d91dfef538d59494997e28818ece
   name: Telegram's Dog
   symbol: REMY
+- address: 0:da50a430100c789afff3ee6f9a27286081bc26a22cc9c0f192bfafd7425bf201
+  name: Republic Dog
+  symbol: REOG
 - address: 0:e1afe8a59873d5124da89ab7d05b44b95cb6f2166d2fdb374659808375fbf566
   name: Resistance Tates
   symbol: RESIST
