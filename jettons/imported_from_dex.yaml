@@ -1541,6 +1541,9 @@
 - address: 0:086fa2a675f74347b08dd4606a549b8fdb98829cb282bc1949d3b12fbaed9dcc
   name: Ethena USDe
   symbol: USDe
+- address: 0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496
+  name: Upstream Lab
+  symbol: USL
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
