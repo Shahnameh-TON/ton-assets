@@ -693,6 +693,7 @@ Name           | Address
 [Tektoniks](https://tonviewer.com/0:a1d37d53a6846d76bc71af4289521f209c49096d5de2370f502be75a1f4754f4) | EQCh031TpoRtdrxxr0KJUh8gnEkJbV3iNw9QK-daH0dU9HJV
 [TeleBTC](https://tonviewer.com/0:715de91762ac613a8864307e6aaa9626777f4ed98604925be097618826c1badb) | EQBxXekXYqxhOohkMH5qqpYmd39O2YYEklvgl2GIJsG62-yw
 [TeleSwap](https://tonviewer.com/0:0660ad3c0da25a429999112cf7cbd82a8bbae6a68062c8a42bbbe7e2acec2a3f) | EQAGYK08DaJaQpmZESz3y9gqi7rmpoBiyKQru-firOwqPzR4
+[Teleclaw](https://tonviewer.com/0:f4d53c04d69958a582af47058e2f0033cc025a0cac290766d1de77e0fb090927) | EQD01TwE1plYpYKvRwWOLwAzzAJaDKwpB2bR3nfg-wkJJwks
 [Telegram Monk](https://tonviewer.com/0:6292ec4e9cc914e173525464026e0e3a964e5df2fba1cc342d70338939c8da22) | EQBikuxOnMkU4XNSVGQCbg46lk5d8vuhzDQtcDOJOcjaIvkV
 [Telegram USD](https://tonviewer.com/0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50) | EQCJ7ASxOkI6Ws5Bh8J74XZbRX8861jFgTZT42DXv71-UISf
 [Telegram's Cat](https://tonviewer.com/0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e) | EQBwy-wJ-wCqh0mfJHoWjmulJ0oIRKEJJt75ULyrJNPcnn5z
