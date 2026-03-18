@@ -85,6 +85,9 @@
 - address: 0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c
   name: Art Coin
   symbol: ART
+- address: 0:12d060a2c5c0b49cbe994817e06a22b3988d02ad6e9536a3666b0520be2ce0c7
+  name: ArtsivTON
+  symbol: ARTSIV
 - address: 0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a
   name: VZGLYAD AVTORA
   symbol: AVTR
