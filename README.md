@@ -594,6 +594,7 @@ Name           | Address
 [SHEP the Dogonaut](https://tonviewer.com/0:3aa3ef1881b139913aab813448194b10073238179d322b9388c151d1985028b5) | EQA6o-8YgbE5kTqrgTRIGUsQBzI4F50yK5OIwVHRmFAotdVO
 [SHIC Coin](https://tonviewer.com/0:c1ad99ba1a487cb3763dd8d7d42a1ef567084a666670d08804d63ddee9901fba) | EQDBrZm6Gkh8s3Y92NfUKh71ZwhKZmZw0IgE1j3e6ZAfuqbd
 [SHIVA the cat on Ton](https://tonviewer.com/0:10018a94afd2038a23102af5d71ed2e14fbed6bdb847ed51a1bcf3c9981545dc) | EQAQAYqUr9IDiiMQKvXXHtLhT77WvbhH7VGhvPPJmBVF3O7y
+[SHREK](https://tonviewer.com/0:b873e5e585397553be809c3700d99ec697e1b1fd239cb62633d55fa40d84032c) | EQC4c-XlhTl1U76AnDcA2Z7Gl-Gx_SOctiYz1V-kDYQDLBBo
 [SOON](https://tonviewer.com/0:b07b4837704161b33e152b99ebb4e641905792212c6109552abce37b226fff48) | EQCwe0g3cEFhsz4VK5nrtOZBkFeSISxhCVUqvON7Im__SOON
 [SPONGE](https://tonviewer.com/0:ad5a9fc06d769643fc73b705d68abdb493cd0dc3e3c9a3d1011201cd804a5bdb) | EQCtWp_AbXaWQ_xztwXWir20k80Nw-PJo9EBEgHNgEpb2_2d
 [STON](https://tonviewer.com/0:3690254dc15b2297610cda60744a45f2b710aa4234b89adb630e99d79b01bd4f) | EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO
