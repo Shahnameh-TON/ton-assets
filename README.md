@@ -80,6 +80,7 @@ Name           | Address
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
 [$TON Mixer](https://tonviewer.com/0:1d15bca749497322587f2387d7b9869eaf7aef6344c6d012be35067e63cef5a5) | EQAdFbynSUlzIlh_I4fXuYaer3rvY0TG0BK-NQZ-Y871pZoM
 [00 Token](https://tonviewer.com/0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4) | EQAefvvYy8aRTJgbsSprwWIBAKPd_ATcTBUo30RYkHwl1J0C
+[1 TON and a Dream](https://tonviewer.com/0:0e1793099b5c56cceeabba1eeda2571b62639fd28942b1a1d57e364eb4daa0c6) | EQAOF5MJm1xWzO6ruh7tolcbYmOf0olCsaHVfjZOtNqgxkyH
 [1PLAYER TOKEN](https://tonviewer.com/0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c) | EQB64g1YNILqmPFdjG1_uxWqCEP0VY141Y2pP0L1YDBdTKQ3
 [1RUS DAO](https://tonviewer.com/0:53d847b82f1e70f6e23ba0c972e6ea5736cdc00562ff170935ba233be2064219) | EQBT2Ee4Lx5w9uI7oMly5upXNs3ABWL_Fwk1uiM74gZCGaYt
 [3CATS in a Trench Coat](https://tonviewer.com/0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a) | EQBCECrR9MCGD9DRLTMdB4YHXXz1v3jeQBOFbOX9BmBomvcF
