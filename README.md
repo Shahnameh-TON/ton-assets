@@ -182,6 +182,7 @@ Name           | Address
 [Cash AMA Radio](https://tonviewer.com/0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5) | EQDIq-S2SqvytT9tv71lhFZ_0rw9OkXLeiAhmhmr3UqJxVow
 [Cashback](https://tonviewer.com/0:adf8f18a394013fe83ce8d6b9c2d60a9fe895765e9529e32224f63cf5bb5640b) | EQCt-PGKOUAT_oPOjWucLWCp_olXZelSnjIiT2PPW7VkCxvM
 [Cat Teftel](https://tonviewer.com/0:793ef6429fe19e07cceccb3f7a5ee5c05d9fef08a1a779b0a57366671a16318f) | EQB5PvZCn-GeB8zsyz96XuXAXZ_vCKGnebClc2ZnGhYxj7pR
+[Catchain 2.0](https://tonviewer.com/0:0e2c63951abd73ec97b7b67fb57ca1085e65184ddba1da19d8cf106687316a0e) | EQAOLGOVGr1z7Je3tn-1fKEIXmUYTduh2hnYzxBmhzFqDgIu
 [Catizen](https://tonviewer.com/0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400) | EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7
 [Chillcoin](https://tonviewer.com/0:3c224ff11239e3872ec2acc32c691989443edc5745547a47bb82d8cd6644610f) | EQA8Ik_xEjnjhy7CrMMsaRmJRD7cV0VUeke7gtjNZkRhD2yP
 [Chilled Cat](https://tonviewer.com/0:301c0dca86285122c28a5a5266c3b8b1ac0dc5278819bf789a94e64155c9763a) | EQAwHA3KhihRIsKKWlJmw7ixrA3FJ4gZv3ialOZBVcl2Olpd
@@ -520,6 +521,7 @@ Name           | Address
 [POO by Godex](https://tonviewer.com/0:c423df36e8cc49985c1541a22e8288ebe1afba72678058e93983ce8774281aa7) | EQDEI9826MxJmFwVQaIugojr4a-6cmeAWOk5g86HdCgap2dK
 [PORK on TON](https://tonviewer.com/0:d03312970845ace082c996dc19297c9e067aabefd7afbf444e011162d8d6a942) | EQDQMxKXCEWs4ILJltwZKXyeBnqr79evv0ROARFi2NapQthS
 [POUCHI](https://tonviewer.com/0:7593497137b452b838c95da8f0ca9924bcc7b27fa9481fca9173b050c832bad9) | EQB1k0lxN7RSuDjJXajwypkkvMeyf6lIH8qRc7BQyDK62bld
+[PRIZM](https://tonviewer.com/0:d13accad4b12ed0e9ff6a512046a29d41aa64f4416d79306b2567ed5013edb1c) | EQDROsytSxLtDp_2pRIEainUGqZPRBbXkwayVn7VAT7bHHWL
 [PROTON JETTON](https://tonviewer.com/0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655) | EQDgSR_-4FDlXPfMVefXX1IIXMWBH4YfYV1a_8cJ0XsGVdsf
 [PUGWIFJET](https://tonviewer.com/0:7c4f5ca5ca4b340c51645140b629e165cd7326fb10e3befeb00c34572ebea34c) | EQB8T1ylyks0DFFkUUC2KeFlzXMm-xDjvv6wDDRXLr6jTPRz
 [PUPA](https://tonviewer.com/0:296afb30ba0917352836a4ac4841773330e8d9736320d2dde3fcab8299205105) | EQApavswugkXNSg2pKxIQXczMOjZc2Mg0t3j_KuCmSBRBTBw
