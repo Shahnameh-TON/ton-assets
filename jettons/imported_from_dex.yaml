@@ -400,6 +400,9 @@
 - address: 0:25d02849cb29c65a0d2d18c08133ab2878a26b2ad366fc80137f5ee3705110c7
   name: povel durev (old)
   symbol: DUREVOLD
+- address: 0:524b69d2b8efaf632f20d6480261503b322e21a5865a51bc06d592117ff28147
+  name: DURIKOVICH
+  symbol: DURIKOVICH
 - address: 0:0d130ef054c1eb8cbb393806a859fb6246a67d7f020901e781815fd4184ed597
   name: Babel Durop
   symbol: DUROP
