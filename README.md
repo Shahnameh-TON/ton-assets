@@ -388,6 +388,7 @@ Name           | Address
 [Life's a Peach](https://tonviewer.com/0:52fe907507f8cad46a967190de0189e61bda6e77d76c1b9495bc10616c5b92ed) | EQBS_pB1B_jK1GqWcZDeAYnmG9pud9dsG5SVvBBhbFuS7Zzu
 [Liquidator](https://tonviewer.com/0:90f05482a0e9c221a797dbd60518e8067519fba7d035b92f208958d9290c910f) | EQCQ8FSCoOnCIaeX29YFGOgGdRn7p9A1uS8giVjZKQyRDxui
 [Lis](https://tonviewer.com/0:9bffab108979da0bddaec7124e115113211ce5a121a4445cd81111e5c8b360a1) | EQCb_6sQiXnaC92uxxJOEVETIRzloSGkRFzYERHlyLNgobdG
+[Long Capital](https://tonviewer.com/0:0e634c5b295d60dded95ee3768e5eac5e6efb9875f6a0782293e42b444fcb444) | EQAOY0xbKV1g3e2V7jdo5erF5u-5h19qB4IpPkK0RPy0RKGV
 [Love You](https://tonviewer.com/0:12d9e9586fafe1a96c8e97b829b984f37f5b2a9a32c9434950e17ff877f32fb4) | EQAS2elYb6_hqWyOl7gpuYTzf1sqmjLJQ0lQ4X_4d_MvtMWR
 [Lucky Bank](https://tonviewer.com/0:75dfdf613ea58376ea66570e3774a04481882c12da258951ac7e97218870be04) | EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK
 [Lucky TON](https://tonviewer.com/0:b20e17004b0226f3e795553ccc10449801e43b7adb5ab1fb865d41b5b640f054) | EQCyDhcASwIm8-eVVTzMEESYAeQ7ettasfuGXUG1tkDwVJbc
