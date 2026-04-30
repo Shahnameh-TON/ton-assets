@@ -3734,6 +3734,11 @@
   "symbol": "NEWS"
  },
  {
+  "address": "0:707f059d0ee73b5f27067eaec548d078be8f45afd0e7ce2953d86aa9796f7e78",
+  "name": "Not Games",
+  "symbol": "NG"
+ },
+ {
   "address": "0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6",
   "name": "NikolAI",
   "symbol": "NIKO"
