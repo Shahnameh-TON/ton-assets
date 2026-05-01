@@ -869,6 +869,7 @@ Name           | Address
 [Зайчик](https://tonviewer.com/0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237) | EQCpCIOM55On1ht_uKzXDXONxVjBD1YqMOIhHq6eh-oCN70d
 [Кот Матроскин](https://tonviewer.com/0:8723c7ea218f6330882e41324f8e6f3f1ff641219d9c9d5f31e258067397b898) | EQCHI8fqIY9jMIguQTJPjm8_H_ZBIZ2cnV8x4lgGc5e4mOCb
 [Крокодил Гена](https://tonviewer.com/0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1) | EQB8FQKkLgVEMqftUBA7m1OSas38-B8Ea_cWrvsEpMM-4TG1
+[Темный Друн](https://tonviewer.com/0:0e80bb061f112ded2c2e90c3009ddafc89150ddfcb4b9acc3e7df313e61b8cf4) | EQAOgLsGHxEt7SwukMMAndr8iRUN38tLmsw-ffMT5huM9JPX
 [Умка (UMKA)](https://tonviewer.com/0:0e193322e584958ba6b3433aab39cdf5f39ae950600aa24cf418ebdbaa3f1ebe) | EQAOGTMi5YSVi6azQzqrOc3185rpUGAKokz0GOvbqj8evuIQ
 [ЧМОНЯ](https://tonviewer.com/0:a7d4bdc316ce7b4708100d5f6ac9a34f25e45c9214a7f0ff739ec724e9e3dd3a) | EQCn1L3DFs57RwgQDV9qyaNPJeRckhSn8P9znsck6ePdOl0r
 [Шайлушай](https://tonviewer.com/0:957c2a220f5221b1029a570a7bc68007006c38684029edd1385630ec095ffc86) | EQCVfCoiD1IhsQKaVwp7xoAHAGw4aEAp7dE4VjDsCV_8hrIR
