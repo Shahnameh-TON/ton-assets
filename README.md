@@ -98,6 +98,7 @@ Name           | Address
 [ARBUZ](https://tonviewer.com/0:ecac262d6606cee7b3d0e3b6fda32b6342b5238b1fa0cf6c083f4f3c0c452f87) | EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC
 [ARUTCOIN](https://tonviewer.com/0:d612c57c643f371e1a4904b5ae07faf9e572f0342a59c1c068f9418db61709b5) | EQDWEsV8ZD83HhpJBLWuB_r55XLwNCpZwcBo-UGNthcJtboi
 [Aaaaaaahhh](https://tonviewer.com/0:57c53b4310f5b630ac4e54493d9511639758c410cd4b7a5d4cc73cf243e586f3) | EQBXxTtDEPW2MKxOVEk9lRFjl1jEEM1Lel1MxzzyQ-WG81gb
+[Agentic Wallets](https://tonviewer.com/0:8577fd6518da7c97a040d7b2142d933eb3feb25980f3d91751c12a9bb77e5e5c) | EQCFd_1lGNp8l6BA17IULZM-s_6yWYDz2RdRwSqbt35eXA9I
 [Airina Bolgur](https://tonviewer.com/0:538d1d671a5c537516464921de5d8bdc903919737783c2ea73045873e5c0f1f9) | EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub
 [AkitaOnTon](https://tonviewer.com/0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2) | EQD6ikvSPUcpE6HB_OjxCMVkFwrtK73CVV1VLR6NWEykojuQ
 [Aleg Tonkoff](https://tonviewer.com/0:7b85db7cf5834ca1a0a0b3c662883d9a65132bdae8b99a8a70d86fc8a1685fd1) | EQB7hdt89YNMoaCgs8ZiiD2aZRMr2ui5mopw2G_IoWhf0cY6
@@ -237,6 +238,7 @@ Name           | Address
 [DexCoyote Legends](https://tonviewer.com/0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c) | EQArTcL5c1TlCoeLwTIRgHOMmebxMxnhSYnz65ttLRWBHL17
 [Diamond Bull Technology](https://tonviewer.com/0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1) | EQBcLHjUJ9Z8LtMRNf-qdqRUVl2mno739oR8IEPDefRR4asj
 [Dimethyltryptamine](https://tonviewer.com/0:ea665ac046fe233c9a70cdb60f3623ad0ff0a8b96c5e0066e9edac00ce87b340) | EQDqZlrARv4jPJpwzbYPNiOtD_CouWxeAGbp7awAzoezQImY
+[Dmitry'Friends](https://tonviewer.com/0:29f298a67958c11c441d2530fde6c87e5d15039a62c85ee8bcde8479a8cbc3f1) | EQAp8pimeVjBHEQdJTD95sh-XRUDmmLIXui83oR5qMvD8Uy0
 [Dog Wif Shapka](https://tonviewer.com/0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7) | EQBg57HDLFd920lqfPTXvGMENLD2oSmtraT3RDefici8x17g
 [Dog or Flower](https://tonviewer.com/0:892c5a48d10475400fc2610efb666d7f9fce510cce322d2e3abe86464566eef6) | EQCJLFpI0QR1QA_CYQ77Zm1_n85RDM4yLS46voZGRWbu9sbX
 [Dogecoin TON](https://tonviewer.com/0:698675afec4910be322418f8cc35a718b57a36744a852326cf4dff08c720468c) | EQBphnWv7EkQvjIkGPjMNacYtXo2dEqFIybPTf8IxyBGjNSz

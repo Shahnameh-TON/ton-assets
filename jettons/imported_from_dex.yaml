@@ -94,6 +94,9 @@
 - address: 0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a
   name: VZGLYAD AVTORA
   symbol: AVTR
+- address: 0:8577fd6518da7c97a040d7b2142d933eb3feb25980f3d91751c12a9bb77e5e5c
+  name: Agentic Wallets
+  symbol: AW
 - address: 0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2
   name: Azure
   symbol: AZURE
@@ -313,6 +316,9 @@
 - address: 0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4
   name: Cute Cats
   symbol: CuteCats
+- address: 0:29f298a67958c11c441d2530fde6c87e5d15039a62c85ee8bcde8479a8cbc3f1
+  name: Dmitry'Friends
+  symbol: D'F
 - address: 0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6
   name: Dancing Cat
   symbol: DANCINGCAT
