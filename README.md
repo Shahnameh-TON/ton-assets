@@ -404,6 +404,7 @@ Name           | Address
 [MMM2049](https://tonviewer.com/0:87e3837bdc15c4853f34eb72802bfdbba02a26bc99e601a79bb28f9d668c80cb) | EQCH44N73BXEhT8063KAK_27oComvJnmAaebso-dZoyAy6g_
 [MONKE](https://tonviewer.com/0:38f9dc02fcfca1659920a020ed32f6882063d45ee39916c1faab837dc5b69615) | EQA4-dwC_PyhZZkgoCDtMvaIIGPUXuOZFsH6q4N9xbaWFXvD
 [MPAK](https://tonviewer.com/0:bee912942b5e31c8dda2265f47190acacc414d7d966f0f0c765f681c181aa771) | EQC-6RKUK14xyN2iJl9HGQrKzEFNfZZvDwx2X2gcGBqncSGz
+[MTONGA Flag ](https://tonviewer.com/0:0eb0d7e67075f9f873b76bad2c71561d37e0dd1c6905bf5bf0012e46dc21215a) | EQAOsNfmcHX5-HO3a60scVYdN-DdHGkFv1vwAS5G3CEhWj61
 [MUSHROOM](https://tonviewer.com/0:38f25c4ef31feaf538df9e9537f13ab267f7a40dc05f8d66c7d199b1d8443322) | EQA48lxO8x_q9TjfnpU38TqyZ_ekDcBfjWbH0Zmx2EQzIh5Z
 [MUZZY](https://tonviewer.com/0:1c521886974ec607c9811c2758932cc6eb750bcb3728ebf2260c27b7882a9862) | EQAcUhiGl07GB8mBHCdYkyzG63ULyzco6_ImDCe3iCqYYpTX
 [Magic Crystal](https://tonviewer.com/0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36) | EQCbKMTmEAdSnzsK85LOpaDkDH3HjujEbTePMSeirvEaNq-U
@@ -600,6 +601,7 @@ Name           | Address
 [S.O.T.A](https://tonviewer.com/0:a2f675ad458e6b7445a46483ce7bff67d565e883c39b5c221fe911a6c050a7ae) | EQCi9nWtRY5rdEWkZIPOe_9n1WXog8ObXCIf6RGmwFCnrrT8
 [SAD MEOW](https://tonviewer.com/0:93630f42a4a9beee23bf542ffb0ecaa478ad41cdefaefbe31e64ca1f8d083cb4) | EQCTYw9CpKm-7iO_VC_7DsqkeK1Bze-u--MeZMofjQg8tEWc
 [SAD WOOF](https://tonviewer.com/0:93d40bdb9fbc1f909e39087454d4f71d61dee00a75bb4eae768687f6507c3709) | EQCT1Avbn7wfkJ45CHRU1PcdYd7gCnW7Tq52hof2UHw3CVWw
+[SAFEMOON](https://tonviewer.com/0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63) | EQAY5rNdHeVujyJUJctvqmU2JZe3oebAgWs8hCGF06vrY3OB
 [SAKE](https://tonviewer.com/0:882149bb76706099caee6c37c52d9579da87b517f1c574366231f7abf6b8a986) | EQCIIUm7dnBgmcrubDfFLZV52oe1F_HFdDZiMfer9riphpQo
 [SAUD](https://tonviewer.com/0:2dcbb7322c88c5ed4f8ad15806fe0724b1300ab482e46c908d8cf62567ce5c09) | EQAty7cyLIjF7U-K0VgG_gcksTAKtILkbJCNjPYlZ85cCZAA
 [SCAM](https://tonviewer.com/0:b9d88ddcdab999a546afd0bad4eaaef0b97a139a13889ef68584a8d9e90b82e6) | EQC52I3c2rmZpUav0LrU6q7wuXoTmhOInvaFhKjZ6QuC5tV5
