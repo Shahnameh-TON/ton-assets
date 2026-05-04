@@ -532,12 +532,12 @@
 - address: 0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51
   name: Goy Token
   symbol: GOY
-- address: 0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198
-  name: Gram
-  symbol: GRAM
 - address: 0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309
   name: GRAND
   symbol: GRAND
+- address: 0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198
+  name: Grm
+  symbol: GRM
 - address: 0:2dc28eaa30dc2daf489303d78a559df672e002149d1529defc1ab05639ef37f9
   name: Groyper
   symbol: GROYP
@@ -1406,6 +1406,9 @@
 - address: 0:f4d53c04d69958a582af47058e2f0033cc025a0cac290766d1de77e0fb090927
   name: Teleclaw
   symbol: Teleclaw
+- address: 0:55deb55e94c3b9b6cdb9b9b283a2407bcd48ff7aa7074c901b7c8bd961586090
+  name: TGFoundation
+  symbol: Telegram
 - address: 0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3
   name: Token 69
   symbol: Token 69
