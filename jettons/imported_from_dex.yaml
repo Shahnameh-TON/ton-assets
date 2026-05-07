@@ -127,6 +127,9 @@
 - address: 0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620
   name: Baby Notcoin
   symbol: BBNOT
+- address: 0:f9bb6809fddcaa1f422f1016ccc6a47a0cb4a44e81ccfba65db46a1cb22a896e
+  name: black cherry
+  symbol: BCHERRY
 - address: 0:2d62f45d3f29bf54fe372424e169fcd38631b3f0e55b1a7cbfc1359a69e97aef
   name: Boys Club
   symbol: BCLUB
@@ -1526,6 +1529,9 @@
 - address: 0:8303360ca7c202b97389c200022e1c0a47dab33e1ad8bd5b3c9af301f762860c
   name: VTONTAKTE
   symbol: WALL
+- address: 0:0e2856c65af25304c4961dc25481a1fb405eabacede2b549521916d0eba3114c
+  name: George WashingTON
+  symbol: WASHINGTON
 - address: 0:310bef9e2ad5dee3e7bd3e160eae4f9f8f1f14d769784f8204a739027f7162cd
   name: Watch Coin
   symbol: WCN
