@@ -320,6 +320,7 @@ Name           | Address
 [GoMining](https://tonviewer.com/0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3) | EQD0laik0FgHV8aNfRhebi8GDG2rpDyKGXem0MBfya_Ew1-8
 [GoiCoin 2](https://tonviewer.com/0:42a329c662c940323bff81197fdbf07528c3af87d656f9a7b4a7b49a5d9cba28) | EQBCoynGYslAMjv_gRl_2_B1KMOvh9ZW-ae0p7SaXZy6KFjY
 [Gold Standard](https://tonviewer.com/0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2) | EQDv6cYW9nNiKjN3Nwl8D6ABjUiH1gYfWVGZhfP7-9tZskTO
+[GoodBoyResistance](https://tonviewer.com/0:0e197b1c74b2f178fa729882e1fdbbba864660b21f8fc2ae01e52b459438dce3) | EQAOGXscdLLxePpymILh_bu6hkZgsh-Pwq4B5StFlDjc44IG
 [Goy Token](https://tonviewer.com/0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51) | EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA
 [Grabscape game token](https://tonviewer.com/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
 [Grabscape governance token](https://tonviewer.com/0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2) | EQD0nt2W1YwJFdMQ-GIx4jguNbvbjS-aM32jOW7hTQs58lds
@@ -737,6 +738,7 @@ Name           | Address
 [Telegram USD](https://tonviewer.com/0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50) | EQCJ7ASxOkI6Ws5Bh8J74XZbRX8861jFgTZT42DXv71-UISf
 [Telegram's Cat](https://tonviewer.com/0:70cbec09fb00aa87499f247a168e6ba5274a0844a10926def950bcab24d3dc9e) | EQBwy-wJ-wCqh0mfJHoWjmulJ0oIRKEJJt75ULyrJNPcnn5z
 [Telegram's Dog](https://tonviewer.com/0:7025a07ee7511f7750ab689b244c0931d8d0d91dfef538d59494997e28818ece) | EQBwJaB-51Efd1CraJskTAkx2NDZHf71ONWUlJl-KIGOzs4b
+[Telegramka](https://tonviewer.com/0:0ac742b143c47b6c55fc12d94c3200c9d08ca36cf2523a1fb1959707792ac232) | EQAKx0KxQ8R7bFX8EtlMMgDJ0IyjbPJSOh-xlZcHeSrCMqsA
 [Telegrem](https://tonviewer.com/0:971855ca4e9f7ad44d271c3ceeea079275cbe6d248982062ad899efbb66f4b14) | EQCXGFXKTp961E0nHDzu6geSdcvm0kiYIGKtiZ77tm9LFBZC
 [Tenere](https://tonviewer.com/0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965) | EQCPmOnkTe8qP_ZtCf3Rys04ukRTiQc_xVS-lGQ6BH3JZWmC
 [Tether Gold](https://tonviewer.com/0:3547f2ee4022c794c80ea354b81bb63b5b571dd05ac091b035d19abbadd74ac6) | EQA1R_LuQCLHlMgOo1S4G7Y7W1cd0FrAkbA10Zq7rddKxi9k
