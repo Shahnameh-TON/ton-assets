@@ -914,6 +914,7 @@ Name           | Address
 [чебурашка](https://tonviewer.com/0:01c45623198e2ab98476c124a5b6263b99ff4b00d222aed93fbbff88f5e88246) | EQABxFYjGY4quYR2wSSltiY7mf9LANIirtk_u_-I9eiCRiry
 [⛽️GasGod](https://tonviewer.com/0:2dc88b8efb6c746e9fe2990872387553e7e5f1f0af2d76ab069040fe04c13dba) | EQAtyIuO-2x0bp_imQhyOHVT5-Xx8K8tdqsGkED-BME9urj_
 [老子](https://tonviewer.com/0:e597ba8665e0ed04daec57d275107361b4b60e397f53bb2dfc6c2ada3cbda120) | EQDll7qGZeDtBNrsV9J1EHNhtLYOOX9Tuy38bCraPL2hIEJq
+[让TON再次伟大](https://tonviewer.com/0:050e756b3c23ad5fa2729a54241ae60203a6ff16b9869f98a6a05f70ff62b3bf) | EQAFDnVrPCOtX6JymlQkGuYCA6b_FrmGn5imoF9w_2Kzv2Wf
 [金狗 TON](https://tonviewer.com/0:89e73c46909bbc06b25bbd4558212fe425264c99bc51fe4d3d77a8f67c1bc357) | EQCJ5zxGkJu8BrJbvUVYIS_kJSZMmbxR_k09d6j2fBvDV1hG
 
 

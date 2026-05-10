@@ -1751,6 +1751,9 @@
 - address: 0:e597ba8665e0ed04daec57d275107361b4b60e397f53bb2dfc6c2ada3cbda120
   name: "\u8001\u5B50"
   symbol: "\u8001\u5B50"
+- address: 0:050e756b3c23ad5fa2729a54241ae60203a6ff16b9869f98a6a05f70ff62b3bf
+  name: "\u8BA9TON\u518D\u6B21\u4F1F\u5927"
+  symbol: "\u8BA9TON\u518D\u6B21\u4F1F\u5927"
 - address: 0:89e73c46909bbc06b25bbd4558212fe425264c99bc51fe4d3d77a8f67c1bc357
   name: "\u91D1\u72D7 TON"
   symbol: "\u91D1\u72D7"
