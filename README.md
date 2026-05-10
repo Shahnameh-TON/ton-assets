@@ -577,6 +577,7 @@ Name           | Address
 [Polar Seal](https://tonviewer.com/0:62653764618cbf177641eddbacbe59f47f56915dc200d1318d28acbb02b907f8) | EQBiZTdkYYy_F3ZB7dusvln0f1aRXcIA0TGNKKy7ArkH-MP4
 [Ponchiqs](https://tonviewer.com/0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530) | EQAkG89bnBfKwsUp8ZzqCJM-DeKxwowl_M7uRan7tbMlMGOJ
 [Portal Network Token](https://tonviewer.com/0:41ed158ed2ace8e898629172e398a25cf35212e094747327396cf00bfe1d061a) | EQBB7RWO0qzo6JhikXLjmKJc81IS4JR0cyc5bPAL_h0GGmxW
+[Premium](https://tonviewer.com/0:0e42d12497489edbe964b5aad1039b544bd3cbea4b9e028290737896d7e7ae9e) | EQAOQtEkl0ie2-lktarRA5tUS9PL6kueAoKQc3iW1-euno6q
 [Press That Button](https://tonviewer.com/0:a43b42c4dafdce37118c0fbcae22bda8cdf4d8e326d4997e759a82c1060e3b08) | EQCkO0LE2v3ONxGMD7yuIr2ozfTY4ybUmX51moLBBg47CB5q
 [Prolific](https://tonviewer.com/0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3) | EQBVJDGFlOrF3WBTLeJh2XOSy-cfV2B0ZZMmX1hBNRTOswIU
 [Prometheus](https://tonviewer.com/0:7c8a1b8ec165850c1a10e891606472d1072b7b56c843973925a4717934ab3d6b) | EQB8ihuOwWWFDBoQ6JFgZHLRByt7VshDlzklpHF5NKs9a3QT
@@ -915,6 +916,7 @@ Name           | Address
 [⛽️GasGod](https://tonviewer.com/0:2dc88b8efb6c746e9fe2990872387553e7e5f1f0af2d76ab069040fe04c13dba) | EQAtyIuO-2x0bp_imQhyOHVT5-Xx8K8tdqsGkED-BME9urj_
 [老子](https://tonviewer.com/0:e597ba8665e0ed04daec57d275107361b4b60e397f53bb2dfc6c2ada3cbda120) | EQDll7qGZeDtBNrsV9J1EHNhtLYOOX9Tuy38bCraPL2hIEJq
 [让TON再次伟大](https://tonviewer.com/0:050e756b3c23ad5fa2729a54241ae60203a6ff16b9869f98a6a05f70ff62b3bf) | EQAFDnVrPCOtX6JymlQkGuYCA6b_FrmGn5imoF9w_2Kzv2Wf
+[道德經](https://tonviewer.com/0:cd4aab1f3520d77421215350d92207d9524b5bc7721f329c56dc6adef5540f0b) | EQDNSqsfNSDXdCEhU1DZIgfZUktbx3IfMpxW3Gre9VQPC5ss
 [金狗 TON](https://tonviewer.com/0:89e73c46909bbc06b25bbd4558212fe425264c99bc51fe4d3d77a8f67c1bc357) | EQCJ5zxGkJu8BrJbvUVYIS_kJSZMmbxR_k09d6j2fBvDV1hG
 
 
