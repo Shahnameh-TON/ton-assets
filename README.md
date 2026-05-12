@@ -323,6 +323,7 @@ Name           | Address
 [GoiCoin 2](https://tonviewer.com/0:42a329c662c940323bff81197fdbf07528c3af87d656f9a7b4a7b49a5d9cba28) | EQBCoynGYslAMjv_gRl_2_B1KMOvh9ZW-ae0p7SaXZy6KFjY
 [Gold Standard](https://tonviewer.com/0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2) | EQDv6cYW9nNiKjN3Nwl8D6ABjUiH1gYfWVGZhfP7-9tZskTO
 [GoodBoyResistance](https://tonviewer.com/0:0e197b1c74b2f178fa729882e1fdbbba864660b21f8fc2ae01e52b459438dce3) | EQAOGXscdLLxePpymILh_bu6hkZgsh-Pwq4B5StFlDjc44IG
+[Gotta Go Fast](https://tonviewer.com/0:6f610dd3c946138d0c596ba50f6e3c15ce39c2e54dcf4625e1a48bbe1cf31832) | EQBvYQ3TyUYTjQxZa6UPbjwVzjnC5U3PRiXhpIu-HPMYMtTX
 [Goy Token](https://tonviewer.com/0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51) | EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA
 [Grabscape game token](https://tonviewer.com/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
 [Grabscape governance token](https://tonviewer.com/0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2) | EQD0nt2W1YwJFdMQ-GIx4jguNbvbjS-aM32jOW7hTQs58lds
