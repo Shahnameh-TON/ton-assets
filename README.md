@@ -919,6 +919,7 @@ Name           | Address
 [让TON再次伟大](https://tonviewer.com/0:050e756b3c23ad5fa2729a54241ae60203a6ff16b9869f98a6a05f70ff62b3bf) | EQAFDnVrPCOtX6JymlQkGuYCA6b_FrmGn5imoF9w_2Kzv2Wf
 [道德經](https://tonviewer.com/0:cd4aab1f3520d77421215350d92207d9524b5bc7721f329c56dc6adef5540f0b) | EQDNSqsfNSDXdCEhU1DZIgfZUktbx3IfMpxW3Gre9VQPC5ss
 [金狗 TON](https://tonviewer.com/0:89e73c46909bbc06b25bbd4558212fe425264c99bc51fe4d3d77a8f67c1bc357) | EQCJ5zxGkJu8BrJbvUVYIS_kJSZMmbxR_k09d6j2fBvDV1hG
+[鸭鸭 Token](https://tonviewer.com/0:c10d5cd47e6b52d4c46548f4870c64e5c14a12b93418054ece7fee26315e3707) | EQDBDVzUfmtS1MRlSPSHDGTlwUoSuTQYBU7Of-4mMV43B8Z_
 
 
 ## Structure

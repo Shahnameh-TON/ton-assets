@@ -5349,6 +5349,11 @@
   "symbol": "\u91d1\u72d7"
  },
  {
+  "address": "0:c10d5cd47e6b52d4c46548f4870c64e5c14a12b93418054ece7fee26315e3707",
+  "name": "\u9e2d\u9e2d Token",
+  "symbol": "\u9e2d\u9e2d"
+ },
+ {
   "address": "EQDsrCYtZgbO57PQ47b9oytjQrUjix-gz2wIP088DEUvh2kC",
   "decimals": 18,
   "image": "https://kingy.wtf/arb-logo-CMC.png",

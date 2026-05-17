@@ -1766,3 +1766,6 @@
 - address: 0:89e73c46909bbc06b25bbd4558212fe425264c99bc51fe4d3d77a8f67c1bc357
   name: "\u91D1\u72D7 TON"
   symbol: "\u91D1\u72D7"
+- address: 0:c10d5cd47e6b52d4c46548f4870c64e5c14a12b93418054ece7fee26315e3707
+  name: "\u9E2D\u9E2D Token"
+  symbol: "\u9E2D\u9E2D"
