@@ -357,6 +357,7 @@ Name           | Address
 [Ice](https://tonviewer.com/0:d67eeb8342f4fc1e123f82136b6a2d4b3930355c61f0d78a5520f6aa2805da92) | EQDWfuuDQvT8HhI_ghNrai1LOTA1XGHw14pVIPaqKAXakk_L
 [Infinity](https://tonviewer.com/0:047d436f074d64de4872c8c25e42ee98eb4f5338fb66ffe327d3ed763496f849) | EQAEfUNvB01k3khyyMJeQu6Y609TOPtm_-Mn0-12NJb4SXwR
 [Informatoken](https://tonviewer.com/0:cc03b311b0b8ff03a6f35f8544c3beb1fb72c12278a9312f5119d72c9a7c4537) | EQDMA7MRsLj_A6bzX4VEw76x-3LBInipMS9RGdcsmnxFN6CG
+[Investor TON](https://tonviewer.com/0:6f138af59d87eed35102d3f10dda57edbb1d5f639a8161821e2a9c479926ea2c) | EQBvE4r1nYfu01EC0_EN2lftux1fY5qBYYIeKpxHmSbqLD_u
 [JOOBI](https://tonviewer.com/0:798ea1e8c59f1a8997739df55be0046bafbb014849d37595e628336ee5338826) | EQB5jqHoxZ8aiZdznfVb4ARrr7sBSEnTdZXmKDNu5TOIJiaL
 [JVault Token](https://tonviewer.com/0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc) | EQC8FoZMlBcZhZ6Pr9sHGyHzkFv9y2B5X9tN61RvucLRzFZz
 [JarvisBot](https://tonviewer.com/0:a890c3a67527a01823a5a56a0efc303b10a53f7f77c0b9978d25f585173232b4) | EQCokMOmdSegGCOlpWoO_DA7EKU_f3fAuZeNJfWFFzIytNSr
