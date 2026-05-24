@@ -234,6 +234,7 @@ Name           | Address
 [DRFT Coin](https://tonviewer.com/0:65e65b1043d6295705284e571d7ac5408e2a9af968a6896dbd1700c7720024c6) | EQBl5lsQQ9YpVwUoTlcdesVAjiqa-WimiW29FwDHcgAkxh7B
 [DURIKOVICH](https://tonviewer.com/0:524b69d2b8efaf632f20d6480261503b322e21a5865a51bc06d592117ff28147) | EQBSS2nSuO-vYy8g1kgCYVA7Mi4hpYZaUbwG1ZIRf_KBR4_q
 [DYOR Coin](https://tonviewer.com/0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1) | EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz
+[Daisy Romashka](https://tonviewer.com/0:3a9f12d29c292bf6529683ab1d0623f1537df191a65cf80f9fbbbab085169e8f) | EQA6nxLSnCkr9lKWg6sdBiPxU33xkaZc-A-fu7qwhRaej12-
 [Dancing Cat](https://tonviewer.com/0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6) | EQAnzdfxDYsmUrLTOL7E6ANRWPR-6TlB-LAv-lifsh-55lZF
 [Dark Horse Investments](https://tonviewer.com/0:8491404bbde5c30377d88c1a94a0b31f0921216da62893883efad1d99398c605) | EQCEkUBLveXDA3fYjBqUoLMfCSEhbaYok4g--tHZk5jGBTpT
 [Darts Coin](https://tonviewer.com/0:56391a57b1002d127565e530261179a43c3f154f08cbf105a35858ea107aacdd) | EQBWORpXsQAtEnVl5TAmEXmkPD8VTwjL8QWjWFjqEHqs3Xei
