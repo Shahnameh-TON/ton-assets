@@ -77,6 +77,7 @@ Name           | Address
 Name           | Address
 ---------------|-----------
 [ Vladimir Putin's Dog](https://tonviewer.com/0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542) | EQA0tQ880E68-ZGsugW3kjm5hk_5hUAWTdVggFlJmqqVQgCm
+[#4DB8FF](https://tonviewer.com/0:3a2b624e7feb19e221c9a74c1bcfc7d5f3116e09cb3752ca06730ef6143a4b6e) | EQA6K2JOf-sZ4iHJp0wbz8fV8xFuCcs3UsoGcw72FDpLbhvJ
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
 [$TON Mixer](https://tonviewer.com/0:1d15bca749497322587f2387d7b9869eaf7aef6344c6d012be35067e63cef5a5) | EQAdFbynSUlzIlh_I4fXuYaer3rvY0TG0BK-NQZ-Y871pZoM
 [00 Token](https://tonviewer.com/0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4) | EQAefvvYy8aRTJgbsSprwWIBAKPd_ATcTBUo30RYkHwl1J0C
@@ -592,6 +593,7 @@ Name           | Address
 [Proxy TON](https://tonviewer.com/0:671963027f7f85659ab55b821671688601cdcf1ee674fc7fbbb1a776a18d34a3) | EQBnGWMCf3-FZZq1W4IWcWiGAc3PHuZ0_H-7sad2oY00o83S
 [Proxy TON](https://tonviewer.com/0:8cdc1d7640ad5ee326527fc1ad0514f468b30dc84b0173f0e155f451b4e11f7c) | EQCM3B12QK1e4yZSf8GtBRT0aLMNyEsBc_DhVfRRtOEffLez
 [Pun Dog](https://tonviewer.com/0:213dca727e486fd8c3d4c589b7ee0f8d8d9a41ae9fa13be5c4a4e56480e2c013) | EQAhPcpyfkhv2MPUxYm37g-NjZpBrp-hO-XEpOVkgOLAE2hS
+[Putin's Last Term](https://tonviewer.com/0:3a14d4334de16f637f794158391a128d7b188ae2110202605b7ee2d8e535f2bc) | EQA6FNQzTeFvY395QVg5GhKNexiK4hECAmBbfuLY5TXyvCX2
 [RAGE](https://tonviewer.com/0:cb951be445fe5d6d388316d77c70fe5ededa80a1ce4df61745d7e9262e0d3697) | EQDLlRvkRf5dbTiDFtd8cP5e3tqAoc5N9hdF1-kmLg02l9jE
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
 [REDO Invest](https://tonviewer.com/0:86c97b2aad5c8330fd016714b78bb29efb387dba875d5471135208263c9302d9) | EQCGyXsqrVyDMP0BZxS3i7Ke-zh9uoddVHETUggmPJMC2WXv
