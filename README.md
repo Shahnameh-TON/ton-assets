@@ -84,7 +84,6 @@ Name           | Address
 [1PLAYER TOKEN](https://tonviewer.com/0:7ae20d583482ea98f15d8c6d7fbb15aa0843f4558d78d58da93f42f560305d4c) | EQB64g1YNILqmPFdjG1_uxWqCEP0VY141Y2pP0L1YDBdTKQ3
 [1RUS DAO](https://tonviewer.com/0:53d847b82f1e70f6e23ba0c972e6ea5736cdc00562ff170935ba233be2064219) | EQBT2Ee4Lx5w9uI7oMly5upXNs3ABWL_Fwk1uiM74gZCGaYt
 [3CATS in a Trench Coat](https://tonviewer.com/0:42102ad1f4c0860fd0d12d331d0786075d7cf5bf78de4013856ce5fd0660689a) | EQBCECrR9MCGD9DRLTMdB4YHXXz1v3jeQBOFbOX9BmBomvcF
-[5TON](https://tonviewer.com/0:11a1656e1903656c6275a5635e469000cc8db902fffa35fde4c3a6a410b3cfc5) | EQARoWVuGQNlbGJ1pWNeRpAAzI25Av_6Nf3kw6akELPPxbrX
 [80 billion is 80 billion](https://tonviewer.com/0:b6a9e27bb3411b6cb0e31e56066f0cb80625a728e8efb62a2a2622e5397a555a) | EQC2qeJ7s0EbbLDjHlYGbwy4BiWnKOjvtioqJiLlOXpVWt1A
 [@BTC25 MEMECOIN TonMiner](https://tonviewer.com/0:bbae71c7b4c5412b28621a701bb58225cc6c52d1d7e2dd96c7131157d0b622f5) | EQC7rnHHtMVBKyhiGnAbtYIlzGxS0dfi3ZbHExFX0LYi9cAH
 [A5](https://tonviewer.com/0:195a32ff6c07a664e2ceeedc58f9d1e4a7da1236443d190503479aca84be695f) | EQAZWjL_bAemZOLO7txY-dHkp9oSNkQ9GQUDR5rKhL5pX692
