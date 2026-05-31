@@ -2974,6 +2974,11 @@
   "symbol": "CTIDAO"
  },
  {
+  "address": "0:3acbcdca634fecbe3bd289830130f40f6e81ac29322d79757bbafd7eff1ecbde",
+  "name": "Cuppy",
+  "symbol": "CUPPY"
+ },
+ {
   "address": "0:301c0dca86285122c28a5a5266c3b8b1ac0dc5278819bf789a94e64155c9763a",
   "name": "Chilled Cat",
   "symbol": "Chill"
@@ -3427,6 +3432,11 @@
   "address": "0:8dd9d92f6a8b158e96bd5e8cf3374c26d4c05c23619337bd425af47322c487ec",
   "name": "Headcoin",
   "symbol": "HDCN"
+ },
+ {
+  "address": "0:3ab76f149e21e17dd5cb7f80ab756f2847846913b5942ddf48bae817f05b1c2e",
+  "name": "Helium Hearts",
+  "symbol": "HH"
  },
  {
   "address": "0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34",
@@ -5192,6 +5202,11 @@
   "address": "0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72",
   "name": "Meme Inc",
   "symbol": "YOBA"
+ },
+ {
+  "address": "0:3a57058743ad1ec66be42e78d82e0cb94247b85f494acf99f9d7a2672fcc8b12",
+  "name": "YOLKY the EGG",
+  "symbol": "YOLKY"
  },
  {
   "address": "0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542",
