@@ -1189,6 +1189,9 @@
 - address: 0:882149bb76706099caee6c37c52d9579da87b517f1c574366231f7abf6b8a986
   name: SAKE
   symbol: SAKE
+- address: 0:d7cba7a02e944bbd5dffdb7cafa50adc95b9771c5571ff2e87d60282e98311ef
+  name: Sakura Flower
+  symbol: SAKURA
 - address: 0:04972ad5df6536d17c2e07723522e92abe91552f04f4977c292c2ff5f1a500a9
   name: Saphir
   symbol: SAPHIR

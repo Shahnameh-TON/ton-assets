@@ -656,6 +656,7 @@ Name           | Address
 [Safeton Strategy](https://tonviewer.com/0:781f4cf6c48d95b7666d074c6589fc5b93e95de4715421b304ea0fd83bab665b) | EQB4H0z2xI2Vt2ZtB0xlifxbk-ld5HFUIbME6g_YO6tmW3ri
 [Saintcoin](https://tonviewer.com/0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d) | EQD7rlGEfvNUXYbEwT-Ll7SUD7LuGkubUeU-TQXsShMwXY0H
 [Saiyan](https://tonviewer.com/0:054f335e1dcc81c0ef083efbcea62e95fe7e01e8ee4fe6478bab6c44e2cf23f7) | EQAFTzNeHcyBwO8IPvvOpi6V_n4B6O5P5keLq2xE4s8j9w4c
+[Sakura Flower](https://tonviewer.com/0:d7cba7a02e944bbd5dffdb7cafa50adc95b9771c5571ff2e87d60282e98311ef) | EQDXy6egLpRLvV3_23yvpQrclbl3HFVx_y6H1gKC6YMR7yl-
 [SantaCoin](https://tonviewer.com/0:e506a188dabe388e99e161f12225a854f1bed9a28de7a35de5e90f47f802096c) | EQDlBqGI2r44jpnhYfEiJahU8b7Zoo3no13l6Q9H-AIJbAgo
 [Saphir](https://tonviewer.com/0:04972ad5df6536d17c2e07723522e92abe91552f04f4977c292c2ff5f1a500a9) | EQAElyrV32U20XwuB3I1IukqvpFVLwT0l3wpLC_18aUAqTc2
 [Save Ass Coin](https://tonviewer.com/0:1007c52de2d9e53a5e78b618ace2f66a9164d5212c9b3e7c7f5c80fddf7ed6cd) | EQAQB8Ut4tnlOl54this4vZqkWTVISybPnx_XID9337WzVra
