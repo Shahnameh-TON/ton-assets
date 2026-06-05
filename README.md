@@ -318,6 +318,7 @@ Name           | Address
 [GOVNO](https://tonviewer.com/0:655a02a787fa9b1584d77ca8060103f193116c02b0ce4abf67940452cf276934) | EQBlWgKnh_qbFYTXfKgGAQPxkxFsArDOSr9nlARSzydpNPwA
 [GOYLAND](https://tonviewer.com/0:3a745d7caf3954fc560cb37068b3e5f2f2c7d33cb9eaaf39a6525d9469cdadd5) | EQA6dF18rzlU_FYMs3Bos-Xy8sfTPLnqrzmmUl2Uac2t1dSc
 [GPU — M2M coin](https://tonviewer.com/0:882d632d4eefd2845bb458f667671f527c25fbd1d4f2a41112b9b28c6543d039) | EQCILWMtTu_ShFu0WPZnZx9SfCX70dTypBESubKMZUPQOd53
+[GRAM PRINTER](https://tonviewer.com/0:1b33f4181f765eb1f74f22e8c3e75132e17a06cb4e41b888819eaaf635d12039) | EQAbM_QYH3ZesfdPIujD51Ey4XoGy05BuIiBnqr2NdEgOfy9
 [GRAM SEASON](https://tonviewer.com/0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b) | EQA6COgHs8dr9El9WthdbXpK8toHwkY841QZ3jtxs59be7SQ
 [GRAND](https://tonviewer.com/0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309) | EQBE6A9Pf7DGcOVjnzoR_kEoi0uGgSBRVT4GMsbEqIoTCcNt
 [Galaxy Online](https://tonviewer.com/0:65b22736d7ad2c703f6b697a1aeb583046f070debb1e2f6f8aeb9779635717a7) | EQBlsic2160scD9raXoa61gwRvBw3rseL2-K65d5Y1cXpyzK
