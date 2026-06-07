@@ -846,6 +846,7 @@ Name           | Address
 [UXLINK Token](https://tonviewer.com/0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293) | EQBh9XACT0B60U8Q48VnjyqCxzxpM4oA0c8rqKt4h70yk1V5
 [UXUY Token](https://tonviewer.com/0:3bbe9955b44382e871df1f080f0ba124776a7db558a9fbbb3a85f6776abf86ac) | EQA7vplVtEOC6HHfHwgPC6Ekd2p9tVip-7s6hfZ3ar-GrJBP
 [Ultron](https://tonviewer.com/0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430) | EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT
+[United Crypto Boys](https://tonviewer.com/0:89928f462604157349faca1b37a5924fd3e8393523c901c10102d7f007697c06) | EQCJko9GJgQVc0n6yhs3pZJP0-g5NSPJAcEBAtfwB2l8BqqE
 [Unknown coin](https://tonviewer.com/0:cd75afd71f244613ffe93d169ed108885a602f5637f99823e7d1f4161e4b486e) | EQDNda_XHyRGE__pPRae0QiIWmAvVjf5mCPn0fQWHktIbiyl
 [Upstream Lab](https://tonviewer.com/0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496) | EQCCcOEovB1zra100w_UPLvMCnTs04R90-fOaAhREQUkluUh
 [Us Usach](https://tonviewer.com/0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024) | EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB
