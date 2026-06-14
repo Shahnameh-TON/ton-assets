@@ -323,6 +323,7 @@ Name           | Address
 [GRAM SEASON](https://tonviewer.com/0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b) | EQA6COgHs8dr9El9WthdbXpK8toHwkY841QZ3jtxs59be7SQ
 [GRAM THEFT AUTO](https://tonviewer.com/0:3a0a315a72516c0eee99e2038867ff5037f750d782101300321cbdb6edf0e321) | EQA6CjFaclFsDu6Z4gOIZ_9QN_dQ14IQEwAyHL227fDjIe5V
 [GRAMCAT](https://tonviewer.com/0:0a040d7ffb058fdf53236c5a7e0a253b45962c51eb645681d31d3b98811f0a86) | EQAKBA1_-wWP31MjbFp-CiU7RZYsUetkVoHTHTuYgR8KhuPE
+[GRAMX6900](https://tonviewer.com/0:3aa19a9f9e0a636d79fb4897418c8604a0ec6dfcdbac3f850b602540b90c86eb) | EQA6oZqfngpjbXn7SJdBjIYEoOxt_NusP4ULYCVAuQyG65G3
 [GRAND](https://tonviewer.com/0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309) | EQBE6A9Pf7DGcOVjnzoR_kEoi0uGgSBRVT4GMsbEqIoTCcNt
 [Galaxy Online](https://tonviewer.com/0:65b22736d7ad2c703f6b697a1aeb583046f070debb1e2f6f8aeb9779635717a7) | EQBlsic2160scD9raXoa61gwRvBw3rseL2-K65d5Y1cXpyzK
 [Game Hunters](https://tonviewer.com/0:387b04f019fbbba55402f998c8deca05c05e97ad724e36363a3261b32fca5608) | EQA4ewTwGfu7pVQC-ZjI3soFwF6XrXJONjY6MmGzL8pWCDj3
@@ -344,6 +345,7 @@ Name           | Address
 [Grabscape governance token](https://tonviewer.com/0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2) | EQD0nt2W1YwJFdMQ-GIx4jguNbvbjS-aM32jOW7hTQs58lds
 [Gram Morning](https://tonviewer.com/0:3af574125db07acd7bf7ea64c56a26b30814ae2e3ff34fab47e389baa21be31a) | EQA69XQSXbB6zXv36mTFaiazCBSuLj_zT6tH44m6ohvjGv02
 [Gram Night ](https://tonviewer.com/0:3af4c86ef763810ad02c7b44896efdffdd5a62555d74779bcb530ff7060f0cca) | EQA69Mhu92OBCtAse0SJbv3_3VpiVV10d5vLUw_3Bg8Myt_0
+[Gram god. In GRAM we trust.](https://tonviewer.com/0:3a947da42809cdd67d6e0d962411467675f084454fabca6feeaf7155f5aec22d) | EQA6lH2kKAnN1n1uDZYkEUZ2dfCERU-rym_ur3FV9a7CLf0B
 [Great Minds Classic](https://tonviewer.com/0:9be0630172871273bb1e19eaa8c296f8391546a6cb3a7873899ee8b6eab02008) | EQCb4GMBcocSc7seGeqowpb4ORVGpss6eHOJnui26rAgCJ6K
 [Grem](https://tonviewer.com/0:3a3fa3bf5c31f454d15e74266ea292fb7bc51d4aa1fd604702d9bc334a3b58ca) | EQA6P6O_XDH0VNFedCZuopL7e8UdSqH9YEcC2bwzSjtYyuI4
 [Grim Reaper](https://tonviewer.com/0:d7f4e0ba06ade84de352e98923e96ca0365bc21c48a241e5d32031adc5095a43) | EQDX9OC6Bq3oTeNS6Ykj6WygNlvCHEiiQeXTIDGtxQlaQ_FX
@@ -449,6 +451,7 @@ Name           | Address
 [Magic Crystal](https://tonviewer.com/0:9b28c4e61007529f3b0af392cea5a0e40c7dc78ee8c46d378f3127a2aef11a36) | EQCbKMTmEAdSnzsK85LOpaDkDH3HjujEbTePMSeirvEaNq-U
 [Magic Vip People](https://tonviewer.com/0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4) | EQDAiXxX8J2CHo4un2mAYFuexI620Y33CWfLFZK-7LcR9Pps
 [Major](https://tonviewer.com/0:ae3e6d351e576276e439e7168117fd64696fd6014cb90c77b2f2cbaacd4fcc00) | EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR
+[Make GIFTS Great Again](https://tonviewer.com/0:2dbc9382d8ee1e1d6799a59753a8a281ce5df37da9387cc4ef3e1c38389f681b) | EQAtvJOC2O4eHWeZpZdTqKKBzl3zfak4fMTvPhw4OJ9oG-2l
 [Make Gram Great Again](https://tonviewer.com/0:3afca4dc64e4487af778cf0f462469a96962abcdd8b1a1df09d5f59f9b8afb63) | EQA6_KTcZORIevd4zw9GJGmpaWKrzdixod8J1fWfm4r7YxZm
 [Make TON Great Again](https://tonviewer.com/0:ee1a0a9953bfc012088ec047be69ba3321e7eea1a8ab4d62cec9dedcfdff0687) | EQDuGgqZU7_AEgiOwEe-abozIefuoairTWLOyd7c_f8GhzMf
 [Make Ton Great Again](https://tonviewer.com/0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e) | EQC1RZb5BF_eWrR0AYCtpUig5c4CQoupQ_v-ABsRmO5pbgQL
