@@ -915,6 +915,7 @@ Name           | Address
 [butTON](https://tonviewer.com/0:238e721577013a274ce00d789780e539a1d140bc313888abd80d9c7de702b5ed) | EQAjjnIVdwE6J0zgDXiXgOU5odFAvDE4iKvYDZx95wK17a8F
 [cats are liquidity](https://tonviewer.com/0:bfa25b403c97507329007fa3ee2816c7b535d5485f0209876a857ea1fa69b01a) | EQC_oltAPJdQcykAf6PuKBbHtTXVSF8CCYdqhX6h-mmwGv59
 [dTON](https://tonviewer.com/0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad) | EQDP4FKs4AqothucWAPdHJfsntegHdknrwmg8qV9eBVlrWma
+[dalla](https://tonviewer.com/0:095442beeb34a8d477dad7b0400ef70d9b81ff9ce21e2eb16c7f13860d64ff31) | EQAJVEK-6zSo1Hfa17BADvcNm4H_nOIeLrFsfxOGDWT_MRDN
 [donotfomoew](https://tonviewer.com/0:16b0818ca0695b8c9248b2293ef7fe80e088a875bd4cecb5b7926bb4e6ff2e8e) | EQAWsIGMoGlbjJJIsik-9_6A4Iiodb1M7LW3kmu05v8ujo9h
 [eTON NFT](https://tonviewer.com/0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184) | EQD4op8CPvKNpXVxj0nzEjsYWFfUkWfTwu1LtJjER67hhNbT
 [ex TON](https://tonviewer.com/0:3ad10c34748a5da67916cfbc023de6fcf3b57447fee8ea5ef49096e52cae7784) | EQA60Qw0dIpdpnkWz7wCPeb887V0R_7o6l70kJblLK53hCEs
