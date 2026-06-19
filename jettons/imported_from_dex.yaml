@@ -1845,8 +1845,8 @@
   name: sTONks
   symbol: sTONks
 - address: 0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892
-  name: Staked TON
-  symbol: stTON
+  name: Staked GRAM
+  symbol: stGRAM
 - address: 0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50
   name: Telegram USD
   symbol: tgUSD
