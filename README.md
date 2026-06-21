@@ -194,6 +194,7 @@ Name           | Address
 [Cash AMA Radio](https://tonviewer.com/0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5) | EQDIq-S2SqvytT9tv71lhFZ_0rw9OkXLeiAhmhmr3UqJxVow
 [Cashback](https://tonviewer.com/0:adf8f18a394013fe83ce8d6b9c2d60a9fe895765e9529e32224f63cf5bb5640b) | EQCt-PGKOUAT_oPOjWucLWCp_olXZelSnjIiT2PPW7VkCxvM
 [Cat Teftel](https://tonviewer.com/0:793ef6429fe19e07cceccb3f7a5ee5c05d9fef08a1a779b0a57366671a16318f) | EQB5PvZCn-GeB8zsyz96XuXAXZ_vCKGnebClc2ZnGhYxj7pR
+[Cat2O](https://tonviewer.com/0:3a2ceaee140ea3501661ebc0978a665f0cb76533b31f75e8ecb96ec4a024d842) | EQA6LOruFA6jUBZh68CXimZfDLdlM7MfdejsuW7EoCTYQuKO
 [Catchain 2.0](https://tonviewer.com/0:0e2c63951abd73ec97b7b67fb57ca1085e65184ddba1da19d8cf106687316a0e) | EQAOLGOVGr1z7Je3tn-1fKEIXmUYTduh2hnYzxBmhzFqDgIu
 [Catizen](https://tonviewer.com/0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400) | EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7
 [Chillcoin](https://tonviewer.com/0:3c224ff11239e3872ec2acc32c691989443edc5745547a47bb82d8cd6644610f) | EQA8Ik_xEjnjhy7CrMMsaRmJRD7cV0VUeke7gtjNZkRhD2yP
