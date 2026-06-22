@@ -511,7 +511,7 @@ Name           | Address
 [Mr. MeMe](https://tonviewer.com/0:ef2d322b96fb09cd51113037f1fbae0afe286df1d7a3aff38563b11af99e661a) | EQDvLTIrlvsJzVERMDfx-64K_iht8dejr_OFY7Ea-Z5mGqrF
 [MrKrabs](https://tonviewer.com/0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862) | EQAaV7Q9M0vrO5HfKrPNnQneXB-S9RyBneMNeX4KzECIYrdk
 [Mumba](https://tonviewer.com/0:972070160c0244261322355a9e52fa7723a3bbcbf3f6b03f34cc4b095de522e7) | EQCXIHAWDAJEJhMiNVqeUvp3I6O7y_P2sD80zEsJXeUi56mb
-[MyTonWallet Coin](https://tonviewer.com/0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28) | EQCFVNlRb-NHHDQfv3Q9xvDXBLJlay855_xREsq5ZDX6KN-w
+[My Wallet Coin](https://tonviewer.com/0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28) | EQCFVNlRb-NHHDQfv3Q9xvDXBLJlay855_xREsq5ZDX6KN-w
 [NET PRESENT VALUE](https://tonviewer.com/0:7328860ffd6567612e640dbcfedf36adf7c86d3425d05157e691a1fb7cb75c11) | EQBzKIYP_WVnYS5kDbz-3zat98htNCXQUVfmkaH7fLdcEaT3
 [NEWJET](https://tonviewer.com/0:2c9c6fe0aec4f5d98e9c151d9e82f0e115c64b4d538b404feca8c939c16a8acf) | EQAsnG_grsT12Y6cFR2egvDhFcZLTVOLQE_sqMk5wWqKzw6z
 [NO Rocket](https://tonviewer.com/0:e71c198046b2600e21d16a2c12870a0b01d2e803bdc62f89519f757d7852a684) | EQDnHBmARrJgDiHRaiwShwoLAdLoA73GL4lRn3V9eFKmhDwT
