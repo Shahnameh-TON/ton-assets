@@ -692,6 +692,7 @@ Name           | Address
 [Seahava token](https://tonviewer.com/0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb) | EQAuXaEvNnUXI3hppeQ1xl6xUWtFGPKFLoQzY3qA5Ulr6_bD
 [SecondLive](https://tonviewer.com/0:2b310049627d7149911f613eb0e465185bce027558f7c8568053fde33139306e) | EQArMQBJYn1xSZEfYT6w5GUYW84CdVj3yFaAU_3jMTkwbhFb
 [Secure Sockets Layer](https://tonviewer.com/0:f753cc9cda6a137bcc826d4958c64321fd208258b92ec506a6da569be220dfa5) | EQD3U8yc2moTe8yCbUlYxkMh_SCCWLkuxQam2lab4iDfpXYU
+[Shadow Kitty](https://tonviewer.com/0:3a489f7f53bd002a5cd8a20116428654ad2a53604291a62ab3a3f13ccd889194) | EQA6SJ9_U70AKlzYogEWQoZUrSpTYEKRpiqzo_E8zYiRlD6G
 [Shards of Anonymous Telegram Numbers](https://tonviewer.com/0:b56c7e2d151dad11542e5b88b6470c2971ca1a4b2f8645012a62b08a81935f37) | EQC1bH4tFR2tEVQuW4i2RwwpccoaSy-GRQEqYrCKgZNfNw0r
 [Shards of Notcoin NFT bond](https://tonviewer.com/0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b) | EQCIXQn940RNcOk6GzSorRSiA9WZC9xUz-6lyhl6Ap6na2sh
 [Shark Invest Club](https://tonviewer.com/0:403eeb032b45bfa44c92fdd30a851402a5f171d2ccde0d984b434101a28e2a86) | EQBAPusDK0W_pEyS_dMKhRQCpfFx0szeDZhLQ0EBoo4qhhXk
