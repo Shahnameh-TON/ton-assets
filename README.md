@@ -937,6 +937,7 @@ Name           | Address
 [jUSDT](https://tonviewer.com/0:729c13b6df2c07cbf0a06ab63d34af454f3d320ec1bcd8fb5c6d24d0806a17c2) | EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA
 [jUSDT Storm LP](https://tonviewer.com/0:2533fe0b63ab0fd503aeaf96867450526b999aea7ab095d7e59a6f66b21abbbc) | EQAlM_4LY6sP1QOur5aGdFBSa5ma6nqwldflmm9mshq7vCLB
 [jWBTC](https://tonviewer.com/0:dc064187982e294dfdf8c771a6d395ef7a93b9c3ad0337167e5d3e08ebe5061b) | EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5
+[koté ](https://tonviewer.com/0:26be9d55aebd33636fbe493747fb45ff98fe62083eb5a76bcd5496301e58019e) | EQAmvp1Vrr0zY2--STdH-0X_mP5iCD61p2vNVJYwHlgBni2C
 [meh](https://tonviewer.com/0:15c3eeac2bb3497a94a3807d605bad256049076334a62bda476d7b2d08294363) | EQAVw-6sK7NJepSjgH1gW60lYEkHYzSmK9pHbXstCClDY4BV
 [meik tun grit agen](https://tonviewer.com/0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013) | EQAO85wCnetsFtuMtVJpxpF-4ycwXqvYQ6MzXpiZ_cjQExcD
 [nano GRAM](https://tonviewer.com/0:3a883211e3330f2c5d16a61882ddef5368cefb92665aaa0f623188a6ae9a1780) | EQA6iDIR4zMPLF0WphiC3e9TaM77kmZaqg9iMYimrpoXgKmv
