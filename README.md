@@ -249,6 +249,7 @@ Name           | Address
 [DeBoost](https://tonviewer.com/0:999099e14267266c0c5fccb71fbede8ebaca8c498260fa0a72f1c23cd528e037) | EQCZkJnhQmcmbAxfzLcfvt6OusqMSYJg-gpy8cI81SjgN9Os
 [DeDust](https://tonviewer.com/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
 [DeFinder Capital](https://tonviewer.com/0:f6eb371de82aa9cfb5b22ca547f31fdc0fa0fbb41ae89ba84a73272ff0bf2157) | EQD26zcd6Cqpz7WyLKVH8x_cD6D7tBrom6hKcycv8L8hV0GP
+[DedustFund](https://tonviewer.com/0:269c0d785de06a4d11d4a9195aaacfcf3c0b7105af8723677da2a1f377301a30) | EQAmnA14XeBqTRHUqRlaqs_PPAtxBa-HI2d9oqHzdzAaMNUG
 [DegensCanAccumulate](https://tonviewer.com/0:0edbf3fb09ff8cabe0b970b571249a5893700d531fbbed35ca4fbf462931ba95) | EQAO2_P7Cf-Mq-C5cLVxJJpYk3ANUx-77TXKT79GKTG6lZSM
 [DexCoyote Legends](https://tonviewer.com/0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c) | EQArTcL5c1TlCoeLwTIRgHOMmebxMxnhSYnz65ttLRWBHL17
 [Diamond Bull Technology](https://tonviewer.com/0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1) | EQBcLHjUJ9Z8LtMRNf-qdqRUVl2mno739oR8IEPDefRR4asj
@@ -742,6 +743,7 @@ Name           | Address
 [TOGE](https://tonviewer.com/0:11ecbe27b6e054318d0a600029b2a44b0f909e3df63482d335e25ea138bbe778) | EQAR7L4ntuBUMY0KYAApsqRLD5CePfY0gtM14l6hOLvneBel
 [TOKI](https://tonviewer.com/0:b31da97af23fe829a766513bcaf4db35f4fffe6e4f0f72b1ddb979341f670804) | EQCzHal68j_oKadmUTvK9Ns19P_-bk8PcrHduXk0H2cIBA_W
 [TON Attack](https://tonviewer.com/0:7604e727930b08b23a9dfab6c09b86efaee9b7fcc24a312829f7be20efecc8a3) | EQB2BOcnkwsIsjqd-rbAm4bvrum3_MJKMSgp974g7-zIo5xv
+[TON CTO LEAD](https://tonviewer.com/0:26e4756432f6567a9b312042107ec3259fa60926894642627130b614e55f21d5) | EQAm5HVkMvZWepsxIEIQfsMln6YJJolGQmJxMLYU5V8h1abL
 [TON Cat](https://tonviewer.com/0:6d0e662008a93779c435c7e8f408b6519cf632695edc077dda774dfa40df8713) | EQBtDmYgCKk3ecQ1x-j0CLZRnPYyaV7cB33ad036QN-HE2C7
 [TON Cats Jetton](https://tonviewer.com/0:5a76af69d76b82d4a7d288f0806a812f8695cf1e3ee1056abe9aa1a7b6ec04d8) | EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C
 [TON Degen](https://tonviewer.com/0:1a2726c0b1d7176de5bf3ecad0644959584e31f262e42fdb39f2421cd0eb6909) | EQAaJybAsdcXbeW_PsrQZElZWE4x8mLkL9s58kIc0OtpCWFO
