@@ -2974,6 +2974,11 @@
   "symbol": "CPBR"
  },
  {
+  "address": "0:26e32cb3d3a8ece3700dcef8e35fe8845c706915408df48e95d538b0d4579b36",
+  "name": "The Devil Bull",
+  "symbol": "CRASH"
+ },
+ {
   "address": "0:1dcf5e9a3d60a601895d4e25ff83e351cd3faca5b37cb4293d7492077c0882dc",
   "name": "CARDIFY Coin",
   "symbol": "CRDF"
@@ -3262,6 +3267,11 @@
   "address": "0:6f610dd3c946138d0c596ba50f6e3c15ce39c2e54dcf4625e1a48bbe1cf31832",
   "name": "Gotta Go Fast",
   "symbol": "FAST"
+ },
+ {
+  "address": "0:26d1678c895538cb23f7fb83a3ec6c3ccb6a67404d5453323f33e8e63c841bf9",
+  "name": "Favezy fund",
+  "symbol": "FAVEZY"
  },
  {
   "address": "0:f412fa64e2d8a614e1e6cb84afde5fca1145e533e74dd7f2a1ae84c27c1db090",

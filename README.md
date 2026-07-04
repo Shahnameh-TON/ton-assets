@@ -301,6 +301,7 @@ Name           | Address
 [Fanton](https://tonviewer.com/0:c207089411e7812c786a216d7ad7239b1af3bbfc1a99783dd7479136cbf7f07e) | EQDCBwiUEeeBLHhqIW161yObGvO7_BqZeD3XR5E2y_fwfiMG
 [Fanzee Token](https://tonviewer.com/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
 [Fast UP](https://tonviewer.com/0:fa7dd071d073f5dc97dc56870f8100a32aaa4a5e1de15d23151951dee72440d5) | EQD6fdBx0HP13JfcVocPgQCjKqpKXh3hXSMVGVHe5yRA1fb_
+[Favezy fund](https://tonviewer.com/0:26d1678c895538cb23f7fb83a3ec6c3ccb6a67404d5453323f33e8e63c841bf9) | EQAm0WeMiVU4yyP3-4Oj7Gw8y2pnQE1UUzI_M-jmPIQb-SCC
 [Fedya, dich!](https://tonviewer.com/0:86d7208d6f47fb2954ab756b3ec0f86fd667237c09b059a09072cd385d1b2dc4) | EQCG1yCNb0f7KVSrdWs-wPhv1mcjfAmwWaCQcs04XRstxKtZ
 [Ferma Invest Dom](https://tonviewer.com/0:ac37522c96db671691a351a6e9b774429d561c6bbe1907dc83d0bd992bd0af27) | EQCsN1IslttnFpGjUabpt3RCnVYca74ZB9yD0L2ZK9CvJ53D
 [FibNOT](https://tonviewer.com/0:84ffa4debca1298fc393cf7ad9b750f96d1e9f10d41b48dd9b6d6d23cf16d618) | EQCE_6TevKEpj8OTz3rZt1D5bR6fENQbSN2bbW0jzxbWGGIo
@@ -802,6 +803,7 @@ Name           | Address
 [Tfish](https://tonviewer.com/0:1057f39fa485f245362ff96e83ec5d746477ddc2662d80c474e6e810c355ddc8) | EQAQV_OfpIXyRTYv-W6D7F10ZHfdwmYtgMR05ugQw1XdyEBz
 [Tgram](https://tonviewer.com/0:d1950f1e9fb036cec4ee17b49d0cec4c959ff0170d04ec4a30deef5ce294a87b) | EQDRlQ8en7A2zsTuF7SdDOxMlZ_wFw0E7Eow3u9c4pSoe4Tg
 [The Coin](https://tonviewer.com/0:b80f1e4cab2f6a86a1e91f4725fd4f217a3067721357667fcbd3f3a3db32d8e4) | EQC4Dx5Mqy9qhqHpH0cl_U8hejBnchNXZn_L0_Oj2zLY5B3P
+[The Devil Bull](https://tonviewer.com/0:26e32cb3d3a8ece3700dcef8e35fe8845c706915408df48e95d538b0d4579b36) | EQAm4yyz06js43ANzvjjX-iEXHBpFUCN9I6V1Tiw1FebNlRe
 [The Fund](https://tonviewer.com/0:2397e9ded4cdccab6a98213fa34738c52c4ed2d1547baa7320a54e958ec3d2ac) | EQAjl-ne1M3Mq2qYIT-jRzjFLE7S0VR7qnMgpU6VjsPSrDIX
 [The Matrix](https://tonviewer.com/0:13a53eb373d32b5a79238a38fdac5d1fc914f9d56c6c5c078193d01037679193) | EQATpT6zc9MrWnkjijj9rF0fyRT51WxsXAeBk9AQN2eRk4Nv
 [The Open League MEME](https://tonviewer.com/0:8e291ace7b37997c28242873be3c19e179ec578eb147652f9e44ee43ffc87960) | EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N
