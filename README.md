@@ -353,6 +353,7 @@ Name           | Address
 [Gram Morning](https://tonviewer.com/0:3af574125db07acd7bf7ea64c56a26b30814ae2e3ff34fab47e389baa21be31a) | EQA69XQSXbB6zXv36mTFaiazCBSuLj_zT6tH44m6ohvjGv02
 [Gram Night ](https://tonviewer.com/0:3af4c86ef763810ad02c7b44896efdffdd5a62555d74779bcb530ff7060f0cca) | EQA69Mhu92OBCtAse0SJbv3_3VpiVV10d5vLUw_3Bg8Myt_0
 [Gram god. In GRAM we trust.](https://tonviewer.com/0:3a947da42809cdd67d6e0d962411467675f084454fabca6feeaf7155f5aec22d) | EQA6lH2kKAnN1n1uDZYkEUZ2dfCERU-rym_ur3FV9a7CLf0B
+[Gram super cycle](https://tonviewer.com/0:2668c7700a6a593494917ef6cd643bb51e48c56f0d95b6fbc8d450cabcb24c83) | EQAmaMdwCmpZNJSRfvbNZDu1HkjFbw2VtvvI1FDKvLJMgyXE
 [Great Minds Classic](https://tonviewer.com/0:9be0630172871273bb1e19eaa8c296f8391546a6cb3a7873899ee8b6eab02008) | EQCb4GMBcocSc7seGeqowpb4ORVGpss6eHOJnui26rAgCJ6K
 [Grem](https://tonviewer.com/0:3a3fa3bf5c31f454d15e74266ea292fb7bc51d4aa1fd604702d9bc334a3b58ca) | EQA6P6O_XDH0VNFedCZuopL7e8UdSqH9YEcC2bwzSjtYyuI4
 [Grim Reaper](https://tonviewer.com/0:d7f4e0ba06ade84de352e98923e96ca0365bc21c48a241e5d32031adc5095a43) | EQDX9OC6Bq3oTeNS6Ykj6WygNlvCHEiiQeXTIDGtxQlaQ_FX
