@@ -728,6 +728,7 @@ Name           | Address
 [Staked GRAM](https://tonviewer.com/0:cd872fa7c5816052acdf5332260443faec9aacc8c21cca4d92e7f47034d11892) | EQDNhy-nxYFgUqzfUzImBEP67JqsyMIcyk2S5_RwNNEYku0k
 [Staked TON](https://tonviewer.com/0:aa0ba121449feda569e02b12fa755d24e834a7454aecf4649590b6df742aac8f) | EQCqC6EhRJ_tpWngKxL6dV0k6DSnRUrs9GSVkLbfdCqsj6TE
 [Stalin](https://tonviewer.com/0:0218fac51d60b2f5099e1573eabd97e5ca87816f982b550c406ae705d2135dd6) | EQACGPrFHWCy9QmeFXPqvZflyoeBb5grVQxAaucF0hNd1sEs
+[Steamy Julia](https://tonviewer.com/0:264f6d90d9a3f22de4cf9a4cdb082d280e83ac2f14e349b4765ef5a5b5be3d16) | EQAmT22Q2aPyLeTPmkzbCC0oDoOsLxTjSbR2XvWltb49FsuV
 [Steamy Julia](https://tonviewer.com/0:cd2ebaf09bb9652a471ed1802b0dbe778de10fdeb4519c9569bc3280d7aef94f) | EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft
 [Stec Network](https://tonviewer.com/0:0c4b1f572d827a95807d2cbd2400f8d93e119876557b410b0f811ad51afdea18) | EQAMSx9XLYJ6lYB9LL0kAPjZPhGYdlV7QQsPgRrVGv3qGLNt
 [Stellarium](https://tonviewer.com/0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74) | EQBjMUhuZnLRu45LtJNixAmWH48IrB61qk1wVWJqZKuNdDvm
