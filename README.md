@@ -140,6 +140,7 @@ Name           | Address
 [BUTTON](https://tonviewer.com/0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11) | EQB4vB9R1WZ0SYodVmGmKl_MrBGQFbYB8iWClXyf7zetEUv0
 [Babel Durop](https://tonviewer.com/0:0d130ef054c1eb8cbb393806a859fb6246a67d7f020901e781815fd4184ed597) | EQANEw7wVMHrjLs5OAaoWftiRqZ9fwIJAeeBgV_UGE7Vl7xM
 [Baby Doge Coin](https://tonviewer.com/0:960e3e3d1c52274b04a4e3d780a38efa135601cb02e816e499e8e3b7c7b8e63f) | EQCWDj49HFInSwSk49eAo476E1YBywLoFuSZ6OO3x7jmP2jn
+[Baby Groyper](https://tonviewer.com/0:0e35686fdcd92842b24f32f07aeffca49d62cfc555fcc0f79f4cf57be61ed999) | EQAONWhv3NkoQrJPMvB67_yknWLPxVX8wPefTPV75h7ZmVKO
 [Baby Lady](https://tonviewer.com/0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc) | EQD6XFBqJ5h_DLugPPbBSrVO_lEczzZXJUNr8P9CB8cHzC7c
 [Baby Notcoin](https://tonviewer.com/0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620) | EQDxRD-NX0xtsu2id0tufZLdxBNoiKkzjAQqBh65Zxq2IK48
 [Baby Shark](https://tonviewer.com/0:e3bcf1cebe99e8c874484855a446d037535e7213a408ee36778831b53c75a389) | EQDjvPHOvpnoyHRISFWkRtA3U15yE6QI7jZ3iDG1PHWjiaq5
@@ -968,6 +969,7 @@ Name           | Address
 [sTONks](https://tonviewer.com/0:6783f531f032ca79a2d9e2437879e73e53e489d5f32d62fa9000db4bd28c4a45) | EQBng_Ux8DLKeaLZ4kN4eec-U-SJ1fMtYvqQANtL0oxKRQh_
 [swap.coffee](https://tonviewer.com/0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad) | EQCl0S4xvoeGeFGijTzicSA8j6GiiugmJW5zxQbZTUntre-1
 [teh upen netwerg](https://tonviewer.com/0:552d1a1ac3517c544044fc01b92b6057697922d2728f9ef7fbd0202a1b2eadbb) | EQBVLRoaw1F8VEBE_AG5K2BXaXki0nKPnvf70CAqGy6tu22X
+[telegram.dog](https://tonviewer.com/0:26f87ef64ba34c68edca10fee31573e7ba9b203b4b3e9a080e296f3d974f7c94) | EQAm-H72S6NMaO3KEP7jFXPnupsgO0s-mggOKW89l098lL57
 [tepe](https://tonviewer.com/0:cdd754d33d3c70ff148f26cff3cabcc84669782570e5a6902663326afbeb66a4) | EQDN11TTPTxw_xSPJs_zyrzIRml4JXDlppAmYzJq--tmpA6V
 [tsUSDe](https://tonviewer.com/0:d0e545323c7acb7102653c073377f7e3c67f122eb94d430a250739f109d4a57d) | EQDQ5UUyPHrLcQJlPAczd_fjxn8SLrlNQwolBznxCdSlfQwr
 [uTON](https://tonviewer.com/0:1f1798f724c2296652e6002bfb51bed11fb5a689532e5788af7203581ef367a8) | EQAfF5j3JMIpZlLmACv7Ub7RH7WmiVMuV4ivcgNYHvNnqHTz
