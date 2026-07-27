@@ -930,6 +930,7 @@ Name           | Address
 [Wuffi](https://tonviewer.com/0:61e2cad28f29d0c5ad579193d065c343192d41b96511b4842ca26a98776bd7ee) | EQBh4srSjynQxa1XkZPQZcNDGS1BuWURtIQsomqYd2vX7oll
 [X Empire](https://tonviewer.com/0:78cd9bac1ec6d4daf5533ea8e19689083a8899844742313ef4dc2584ce14cea3) | EQB4zZusHsbU2vVTPqjhlokIOoiZhEdCMT703CWEzhTOo__X
 [Xraider](https://tonviewer.com/0:03392cb03e3ff6193296a4ff669d942e66990a0f14993afbead8de4aa6f29d65) | EQADOSywPj_2GTKWpP9mnZQuZpkKDxSZOvvq2N5KpvKdZbet
+[YAYA](https://tonviewer.com/0:266d78e2a8b3d75b5ea0dcf5dd311ccb2b2a6b52fc7c2b6a707a75b89138f5ee) | EQAmbXjiqLPXW16g3PXdMRzLKyprUvx8K2pwenW4kTj17vHk
 [YOLKY the EGG](https://tonviewer.com/0:3a57058743ad1ec66be42e78d82e0cb94247b85f494acf99f9d7a2672fcc8b12) | EQA6VwWHQ60exmvkLnjYLgy5Qke4X0lKz5n516JnL8yLEv8F
 [YSR](https://tonviewer.com/0:a73c98074ddefb8c93822e31837ecb92e6d03acb69fb534d5d68c743906654f9) | EQCnPJgHTd77jJOCLjGDfsuS5tA6y2n7U01daMdDkGZU-dbZ
 [Yoken](https://tonviewer.com/0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26) | EQCDkrpCu-FFVPQJnManjlf8XCN75wjX_AKrrEFFQ1mfJqZo
