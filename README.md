@@ -315,6 +315,7 @@ Name           | Address
 [First Digital USD](https://tonviewer.com/0:f412fa64e2d8a614e1e6cb84afde5fca1145e533e74dd7f2a1ae84c27c1db090) | EQD0Evpk4timFOHmy4Sv3l_KEUXlM-dN1_KhroTCfB2wkO89
 [First meme Gram](https://tonviewer.com/0:2688056a3643686ecf025dbb77f0994d1655c9d1eced465b0fdd9dbb605d8332) | EQAmiAVqNkNobs8CXbt38JlNFlXJ0eztRlsP3Z27YF2DMvKr
 [Flamingo Coin](https://tonviewer.com/0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025) | EQB1JWp5YwtdMZlGwMp9N_VygWYRj1mDmDdp91Sm84-AJWI_
+[Flamy Cat](https://tonviewer.com/0:3a0ffd3d5df5fdc07049259c428b2b77376e0b38872b6235e9e8ea92716c6857) | EQA6D_09XfX9wHBJJZxCiyt3N24LOIcrYjXp6OqScWxoV4Sb
 [FlokiTon](https://tonviewer.com/0:11983c9b7c4bf223faf7256ef364057e553cfca56bec7ae216a6362a400e38ba) | EQARmDybfEvyI_r3JW7zZAV-VTz8pWvseuIWpjYqQA44ui9r
 [FlowGaia](https://tonviewer.com/0:3aa42ed9798fbdf8ee02f3bffbe5829a34efd968d21aef27e3a336f4d2ee62de) | EQA6pC7ZeY-9-O4C87_75YKaNO_ZaNIa7yfjozb00u5i3quX
 [Fort Emblem](https://tonviewer.com/0:6c3ae0007ec6d8deb14d5a2426d37dab8f8a31f01965344201cad002f3b92537) | EQBsOuAAfsbY3rFNWiQm032rj4ox8BllNEIBytAC87klN2Fv
