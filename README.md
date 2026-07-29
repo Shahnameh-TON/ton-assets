@@ -998,6 +998,7 @@ Name           | Address
 [Шапокляк](https://tonviewer.com/0:dae7ec8ede6d0fa22b80683b51b8d9bf33f9d43240355f7a7d7302978e4dbae8) | EQDa5-yO3m0PoiuAaDtRuNm_M_nUMkA1X3p9cwKXjk266NL7
 [матрёшка](https://tonviewer.com/0:905737d037268c177108eaed19b7b51672deaee90545de7fa73d406ed07aa979) | EQCQVzfQNyaMF3EI6u0Zt7UWct6u6QVF3n-nPUBu0HqpedY-
 [чебурашка](https://tonviewer.com/0:01c45623198e2ab98476c124a5b6263b99ff4b00d222aed93fbbff88f5e88246) | EQABxFYjGY4quYR2wSSltiY7mf9LANIirtk_u_-I9eiCRiry
+[بافل دوروف](https://tonviewer.com/0:2652d2278ec66d9c946988e3b21e89898879add8b4daaedd358a0324d148e395) | EQAmUtInjsZtnJRpiOOyHomJiHmt2LTart01igMk0UjjlSPJ
 [⛽️GasGod](https://tonviewer.com/0:2dc88b8efb6c746e9fe2990872387553e7e5f1f0af2d76ab069040fe04c13dba) | EQAtyIuO-2x0bp_imQhyOHVT5-Xx8K8tdqsGkED-BME9urj_
 [老子](https://tonviewer.com/0:e597ba8665e0ed04daec57d275107361b4b60e397f53bb2dfc6c2ada3cbda120) | EQDll7qGZeDtBNrsV9J1EHNhtLYOOX9Tuy38bCraPL2hIEJq
 [让TON再次伟大](https://tonviewer.com/0:050e756b3c23ad5fa2729a54241ae60203a6ff16b9869f98a6a05f70ff62b3bf) | EQAFDnVrPCOtX6JymlQkGuYCA6b_FrmGn5imoF9w_2Kzv2Wf
