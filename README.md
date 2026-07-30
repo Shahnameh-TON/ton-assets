@@ -642,6 +642,7 @@ Name           | Address
 [Pun Dog](https://tonviewer.com/0:213dca727e486fd8c3d4c589b7ee0f8d8d9a41ae9fa13be5c4a4e56480e2c013) | EQAhPcpyfkhv2MPUxYm37g-NjZpBrp-hO-XEpOVkgOLAE2hS
 [Putin's Last Term](https://tonviewer.com/0:3a14d4334de16f637f794158391a128d7b188ae2110202605b7ee2d8e535f2bc) | EQA6FNQzTeFvY395QVg5GhKNexiK4hECAmBbfuLY5TXyvCX2
 [QUBY](https://tonviewer.com/0:2659d5b31b87ee051cbf7acba6ec09e8a59693c5c9a61f7268a038abf68ca41a) | EQAmWdWzG4fuBRy_esum7AnopZaTxcmmH3JooDir9oykGshI
+[Quackers](https://tonviewer.com/0:2643684bd87e00f7942ad2962f1fd8abe85e7a3e896264d25ba79d0a50bc62c2) | EQAmQ2hL2H4A95Qq0pYvH9ir6F56PoliZNJbp50KULxiwpEr
 [RAGE](https://tonviewer.com/0:cb951be445fe5d6d388316d77c70fe5ededa80a1ce4df61745d7e9262e0d3697) | EQDLlRvkRf5dbTiDFtd8cP5e3tqAoc5N9hdF1-kmLg02l9jE
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
 [REDO Invest](https://tonviewer.com/0:86c97b2aad5c8330fd016714b78bb29efb387dba875d5471135208263c9302d9) | EQCGyXsqrVyDMP0BZxS3i7Ke-zh9uoddVHETUggmPJMC2WXv
