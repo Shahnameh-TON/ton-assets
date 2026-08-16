@@ -368,6 +368,7 @@ Name           | Address
 [Grim Reaper](https://tonviewer.com/0:d7f4e0ba06ade84de352e98923e96ca0365bc21c48a241e5d32031adc5095a43) | EQDX9OC6Bq3oTeNS6Ykj6WygNlvCHEiiQeXTIDGtxQlaQ_FX
 [Grm](https://tonviewer.com/0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198) | EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O
 [Grouche coin](https://tonviewer.com/0:2eeeac5f560320d2da67a2c06901160e1bef96d4452e5ffe47fef390b5356e1e) | EQAu7qxfVgMg0tpnosBpARYOG--W1EUuX_5H_vOQtTVuHnrn
+[GroypUtya](https://tonviewer.com/0:26da9a30cb75ab59ebb89b99dd36a423342bfed4c02b171e31397f65ee92a76d) | EQAm2powy3WrWeu4m5ndNqQjNCv-1MArFx4xOX9l7pKnbdWs
 [Groyper](https://tonviewer.com/0:2dc28eaa30dc2daf489303d78a559df672e002149d1529defc1ab05639ef37f9) | EQAtwo6qMNwtr0iTA9eKVZ32cuACFJ0VKd78GrBWOe83-X1P
 [Grumpy Cat](https://tonviewer.com/0:3acc8ecc0284249f41f02be0e5cda661dd6a9083ea6c14c40d82a6ebaa18d6b5) | EQA6zI7MAoQkn0HwK-DlzaZh3WqQg-psFMQNgqbrqhjWtXLI
 [HAMSTERBATYA](https://tonviewer.com/0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d) | EQC_BL8coX-feVxZ-_XGFU6YcBcKeAxqHiVjinN_t1ADTUwr
