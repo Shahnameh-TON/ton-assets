@@ -412,6 +412,7 @@ Name           | Address
 [JogjaTON](https://tonviewer.com/0:80e1ad1f8b908290aa307d954049839c6b3f6726185623b0e28d4dafb2887230) | EQCA4a0fi5CCkKowfZVASYOcaz9nJhhWI7DijU2vsohyMGNn
 [John Doge](https://tonviewer.com/0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da) | EQCFWfg1ELLRkNQ1VgxCEOYKqLqxAuNJTrUXFXgkag7D2ssH
 [Junior Invest](https://tonviewer.com/0:3c37f57aff4b49d7bf76fc53b43f9d66ba9ede25c51bed90b4d15744d0b0f268) | EQA8N_V6_0tJ1792_FO0P51mup7eJcUb7ZC00VdE0LDyaHBo
+[Just pump it](https://tonviewer.com/0:708b17ac52285ebf673cc1619a47d070394fe68d4f88d80d8c230f6ca0238954) | EQBwixesUihev2c8wWGaR9BwOU_mjU-I2A2MIw9soCOJVC-n
 [JustBondit](https://tonviewer.com/0:2674b8e5383051cf95b29f4e12787fe4c7557ffd7f99482c234459f26109c791) | EQAmdLjlODBRz5Wyn04SeH_kx1V__X-ZSCwjRFnyYQnHkRdb
 [KAKAXA](https://tonviewer.com/0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a) | EQDqz7LTwgj016kiTiSooM_ft8kveL2P4pj4fkJmsUV_an_X
 [KING OF REFERRAL COIN](https://tonviewer.com/0:93b3a788f7f498a19d813d8d2e9e458dcbbb2518631afb029df92a0a64e3679f) | EQCTs6eI9_SYoZ2BPY0unkWNy7slGGMa-wKd-SoKZONnn9ge
