@@ -429,6 +429,7 @@ Name           | Address
 [LEMONIA](https://tonviewer.com/0:bc70fad0c7a42c8be34731c0b53e9466b5a89e0a250171bf9dd3de6ae84354b3) | EQC8cPrQx6Qsi-NHMcC1PpRmtaieCiUBcb-d095q6ENUs7XT
 [LEOPOLD](https://tonviewer.com/0:35f6810b89fc5c016bd1e5ae1d20f426238be0f6583b8dc323986862f3ccaecc) | EQA19oELifxcAWvR5a4dIPQmI4vg9lg7jcMjmGhi88yuzJU6
 [LLAMA](https://tonviewer.com/0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067) | EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j
+[LOCKIN](https://tonviewer.com/0:2601bdddedd10ff1f31639fe36273c6ef03c86fdf08af6775f2ecd5786394de4) | EQAmAb3d7dEP8fMWOf42Jzxu8DyG_fCK9ndfLs1XhjlN5HU9
 [LP Token for ARBUZ-TON](https://tonviewer.com/0:a1ad624d870adacd173061953be12d0342ea892ba153e34c64eee28d2d59a367) | EQChrWJNhwrazRcwYZU74S0DQuqJK6FT40xk7uKNLVmjZ9Da
 [LP Token for DFC-TON](https://tonviewer.com/0:84868f284afcd59de33eab700b57d18c3a8473946370ac6b6ae29db1dd29c89c) | EQCEho8oSvzVneM-q3ALV9GMOoRzlGNwrGtq4p2x3SnInMVA
 [LP Token for FISH-TON](https://tonviewer.com/0:618b7dbad45d30f48df0a8bbf700cb86181e94f86efaebaacf3270c02c77d46f) | EQBhi3261F0w9I3wqLv3AMuGGB6U-G7666rPMnDALHfUb767
