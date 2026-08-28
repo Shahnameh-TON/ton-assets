@@ -442,6 +442,9 @@
 - address: 0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4
   name: Owled Didi
   symbol: DIDI
+- address: 0:264d47223f291a370e5b67d0e5617ce907dbc58d464e779adefd38821db6989b
+  name: Diggy
+  symbol: DIGGY
 - address: 0:722d939a05ba6bf44c0da275ca11f92464bd6f88db181decf1c390952b8061d3
   name: DINJA
   symbol: DINJA
