@@ -5299,6 +5299,11 @@
   "symbol": "TWIDO"
  },
  {
+  "address": "0:27990dea2b2783da432d958f072a5f7334d35b877b9a0f24a23fabab7d573201",
+  "name": "Tower game token",
+  "symbol": "TWR"
+ },
+ {
   "address": "0:8b4b0ee34802882144d2cf058afc0749078a2c2777c5f27387cdf0c984ffca09",
   "name": "Tower investors",
   "symbol": "TWRINV"
